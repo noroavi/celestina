@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="utf-8">
+  <title>Edición crítica digital de <em>La Celestina</em></title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="La Celestina. Edición crítica digital (parcial)">
+  <meta name="keywords" content="La Celestina, edición crítica digital, Python, TEI, HTML">
+  <meta name="author" content="Noemí Román Avilés">
+  <link rel="stylesheet" href="../bootstrap/css/bootstrap.css">
+  <link rel="stylesheet" href="estilos.css">
+  <link rel="shortcut icon" type="png" href="img/favicon.png">
+  <link href="https://fonts.googleapis.com/css?family=Grenze Gotisch' rel='stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+  <div class="container">
+    <div class="col-xl" id="cabecera">
+      <img src=img/titulo.jpg class="img-fluid" alt="La Celestina. Edición crítica digital (parcial)">
+    </div>
+    <div class="col-xl" class="nav justify-content-end nav-fill" id="menu">
+      <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav">
+            <a class="nav-item nav-link" href="index.html">Inicio</a>
+            <a class="navbar-brand" href="celestina.html"><em>La Celestina</em></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <a class="nav-item nav-link" href="critica.html">Edición crítica</a>
+            <a class="nav-item nav-link" href="proyecto.html">Proyecto</a>
+          </div>
+        </div>
+      </nav>
+    </div>
+    <div div class="col-xl" id="contenido">
+        <h2><em>La Celestina</em></h2>
+        <p>Realizar la edición crítica de una obra resulta siempre una labor compleja, pero en el caso de <em>La Celestina</em> esta complejidad se puede ver acentuada por varios motivos como son la mutación que experimentó en su génesis con el añadido de partes nuevas, la transformación de su título, sus problemas de autoría o su gran auge editorial con un gran volumen de ejemplares impresos en poco tiempo y las tempranas traducciones a otros idiomas, entre otros.</p>
+        <p>Todos estos aspectos, que desarrollamos brevemente a continuación, pueden suponer la adopción de decisiones delicadas a la hora de abordar su edición crítica.</p>
+        </p>
+      <div class="col-xl">
+  
+        <div id="accordion">
+  
+          <div class="card">
+            <div class="card-header">
+              <a class="card-link" data-toggle="collapse" href="#collapseOne">
+                Autor(es)
+              </a>
+            </div>
+            <div id="collapseOne" class="collapse" data-parent="#accordion">
+              <div class="card-body">
+                <p>A lo largo de toda su tradición editorial, la cuestión del autor único ―por obra de Fernando de Rojas, a quien tradicionalmente se ha atribuido la composición― o compartida ha generado polémica y sigue haciéndolo entre los estudiosos de la obra, llegando incluso a dudarse últimamente de que este sea el verdadero artífice.</p>
+                <p>La postura de la autoría única, defendida por Menéndez y Pelayo, entre otros, explicaba que el autor <em>jugaba</em> con esa ficción de continuar con una obra ajena y de que la escribiese en solo quince días, como llega a asegurar en la carta inicial. Se podría tratar, por tanto, de un recurso de <em>captatio benevolentiae</em> para favorecer la disposición del lector ante su inexperiencia o incluso para protegerse de la censura.</p>
+                <p>Respecto a los de la autoría compartida, postura más extendida y aceptada en la actualidad, con referentes como Menéndez Pidal, entre otros, se basan en diferencias esenciales entre el Acto I y el resto de la obra como las fuentes utilizadas (Aristóteles y Séneca, para el inicio, y de Petrarca, para el resto de los actos), el arcaísmo lingüístico, la dialéctica argumentativa de los personajes, etc., para demostrar que hallaríamos detrás dos autores diferentes. La aparición del <em>Manuscrito de Palacio</em> en 1989 ha podido servir para confirmar esta teoría, pero no existe todavía un acuerdo sobre la propia naturaleza de tal manuscrito que haga decantarse por esta hipótesis.</p>
+                <P>La polémica ahonda incluso más, ya que estudiosos como Remedios Prieto y Antonio Sánchez o José Luis Canet, ponen en tela de juicio la autoría de Rojas ateniéndose a argumentos como la ausencia de su nombre en las primeras portadas impresas o la escasa repercusión que este tuvo en los círculos literarios del momento.</P>
+              </div>
+            </div>
+          </div>
+        
+          <div class="card">
+            <div class="card-header">
+              <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo">
+                Título(s)
+              </a>
+            </div>
+            <div id="collapseTwo" class="collapse" data-parent="#accordion">
+              <div class="card-body">
+                <p>El título o, más bien, los títulos de la obra han supuesto otro elemento de complejidad para la ecdótica del texto.</p>
+                <p>El título originario, simplificado como la <em>Comedia de Calisto y Melibea</em> ― para las tres ediciones que se conocen, a saber, Burgos 1499; Toledo 1500 y Sevilla 1501―, se hallaba íntimamente relacionado con el contenido y el género en el que se clasificaba, comedia humanística.</p>
+                <p>Posteriormente, este se transformó en la <em>Tragicomedia Calisto y Melibea</em> ―resto de ediciones― cuando mutó su nombre por petición del público para que no existiera esa disonancia con un contenido que no se entendía como placentero, así lo explica el propio autor en el Prólogo: «El primer auctor quiso darle denominación del principio, que fue plazer, y llamola comedia. Yo, viendo estas discordias, entre estos estremos partí agora por medio la porfía y llamela tragicomedia». También aumentó su número de actos de 16 a 21, aunque no era intención suya tal como expone: «hallé que querían que se alargasse en el processo de su deleite destos amantes; sobre lo cual fui muy importunado, de manera que acordé, aunque contra mi voluntad, meter segunda vez la pluma en tan estraña labor».</p>
+                <p>En cuanto al último título que adoptó y por el que es conocida actualmente la obra, <em>La Celestina</em>, surgió por primera vez fuera de España, con la publicación de una edición italiana traducida por Ordóñez e impresa en Venecia en 1519, se retomó en la traducción francesa anónima de 1527 como <em>Célestine</em> y llegó tardíamente a España, de hecho, se imprimió por primera vez con tal título en la portada en la edición de Alcalá de Henares de Juan de Villanueva de 1569, aunque fuese conocida ya así en el mundo editorial desde el inicio de su tradición de impresión a principios del XVI, como reza en otros documentos.</p>
+              </div>
+            </div>
+          </div>
+        
+          <div class="card">
+            <div class="card-header">
+              <a class="collapsed card-link" data-toggle="collapse" href="#collapseThree">
+                Género(s)
+              </a>
+            </div>
+            <div id="collapseThree" class="collapse" data-parent="#accordion">
+              <div class="card-body">
+                <p>La cuestión de su adscripción a un género también plantea dificultades. Las dos posturas enfrentadas en este caso son la de que se tratase de una novela dramática dialogada por la amplia extensión de lo contado, como proponían Amador de los Ríos, Menéndez y Pelayo o Dorothy S. Severin; o la de que fuera una comedia humanística, con partidarios como Alan Deyermond o Rosa Lida de Malkiel, entre otros, posición mayoritariamente aceptada por la crítica en la actualidad.</p>
+                <p>Se considera que <em>La Celestina</em> constituyó la primera comedia humanística en lengua vulgar. Tanto su título originario, <em>Comedia</em>, como su presentación dialogada contribuirían a corroborarlo. Además, hay otros argumentos que redundan en esta adscripción y son las concomitancias con la trama de otras comedias humanísticas del momento (la <em>Poliscena</em> o el <em>Poliodorus</em>); la inserción de sentencias, proverbios y citas clásicas y la pretendida finalidad moral de estas comedias, como era censurar la pasión sexual a través del humor.</p>
+                <p>A pesar de ser considerada del género dramático, su gran extensión, al superar los cinco actos máximos del teatro clásico, no permitían que estas obras estuviesen destinadas a la representación, sino a la lectura en voz alta ante un auditorio en ámbitos académicos. hecho frecuente con algunas modalidades de teatro erudito, como las tragedias de Séneca.</p>
+                <p>En cambio, a diferencia de las comedias humanísticas italianas, <em>La Celestina</em> plantea novedades que entroncan con la tradición española como son la influencia de la ficción sentimental o la presencia de poemas, que ralentizarían la trama y tampoco contribuirían a la posible representación escénica de la obra.</p>
+              </div>
+            </div>
+          </div>
+  
+          <div class="card">
+            <div class="card-header">
+              <a class="collapsed card-link" data-toggle="collapse" href="#collapseFour">
+                Estructura
+              </a>
+            </div>
+            <div id="collapseFour" class="collapse" data-parent="#accordion">
+              <div class="card-body">
+                <p>Asimismo, la estructura de la obra resulta compleja por intercalar la historia dialogada en sí, en prosa, con otros elementos paratextuales preliminares y posliminares al cuerpo, tanto en verso como en prosa, que, además, se transforman en función del estadio redaccional del texto. Estructura y transmisión son, por tanto, elementos indisociables en un texto como <em>La Celestina</em>.</p>
+                <p>De hecho, la transformación de la inicial <em>Comedia de Calisto y Melibea</em>, de dieciséis actos, en la <em>Tragicomedia de Calisto y Melibea</em>, al ampliarla con la adición de cinco actos, formato que acabó siendo el definitivo, es uno de los hitos más destacados de su transmisión textual.</p>
+                <p>Esta es la estructura que tendría la obra en su versión final:</p>
+                <ul>
+                  <li>La carta de «El autor a un su amigo»: se explica que el autor es un estudiante de Leyes en Salamanca que decide acabar durante unas vacaciones de quince días un escrito, Acto I, que ha encontrado por casualidad.</li>
+                  <li>Octavas acrósticas (once estrofas): al unir la primera letra de cada uno de los versos de las once coplas se descubre la identidad y procedencia del autor.</li>
+                  <li>Prólogo: «Todas las cosas ser criadas […]».</li>
+                  <li>Cuerpo dialogado de la obra, constituido a su vez por:</li>
+                     <ul>
+                      <li><em>Incipit</em>: «Síguese la <em>Comedia de Calisto y Melibea</em>[...]».</li>
+                      <li>Argumento general.</li>
+                      <li>Veintiún actos precedidos de su resumen argumental.</li>
+                     </ul>
+                  <li>Tres octavas del autor: «Concluye el autor[...]», explica su propósito moralizante.</li>
+                  <li>Siete octavas del editor Alonso de Proaza: explica cómo extraer el nombre del autor de las octavas iniciales.</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+  
+          <div class="card">
+            <div class="card-header">
+              <a class="collapsed card-link" data-toggle="collapse" href="#collapseFive">
+                Transmisión de la obra: tradición manuscrita e impresa
+              </a>
+            </div>
+            <div id="collapseFive" class="collapse" data-parent="#accordion">
+              <div class="card-body">
+                Lorem ipsum..
+              </div>
+            </div>
+          </div>
+  
+          <div class="card">
+            <div class="card-header">
+              <a class="collapsed card-link" data-toggle="collapse" href="#collapseSix">
+                <em>Stemmata</em>
+              </a>
+            </div>
+            <div id="collapseSix" class="collapse" data-parent="#accordion">
+              <div class="card-body">
+                <p>Otro de los aspectos importantes en una edición crítica es establecer el <em>stemma</em> o la filiación entre los distintos testimonios, sobre todo cuando existe tal número de ediciones y algunas perdidas como en <em>La Celestina</em>. El <em>stemma</em> se propone teniendo en cuenta las lecciones y los errores compartidos por los distintos testimonios.</p>
+                <p>La aparición del <em>Manuscrito de Palacio</em> condujo a la reestructuración de los <em>stemmata</em> que se habían propuesto hasta la fecha. En 1993, Lobera presentó una filiación de las ediciones más antiguas de la obra que recoge en la edición de <em>La Celestina</em> publicada por la RAE en 2011 y es la siguiente.</p>
+                <p><img src="img/stemma.png"/></p>
+                <p>En él se aprecia que existirían varios nudos, <em>ω</em>, <em>ω16</em> y <em>ω21</em>, que son el arquetipo (‘hipotético antecesor común de las versiones textuales’) y dos subarquetipos de toda la tradición manuscrita (<em>Mp</em>) e impresa (el resto). A su vez, <em>ω16’</em> es el subarquetipo de las tres ediciones de la <em>Comedia</em> que se conservan (<em>B</em>, <em>C</em>, <em>D</em>), aunque <em>B</em> no deriva del subarquetipo <em>x</em>, que sí que comparten <em>C</em> y <em>D</em>. De un arquetipo previo, <em>ω16</em>, derivaría el arquetipo de la <em>Tragicomedia</em>, <em>ω21</em>, que daría lugar a los distintos testimonios por medio de un gran número de subarquetipos desaparecidos.</p>
+                <p>En la memoria se pueden encontrar alusiones a otros <em>stemmata</em> propuestos. Podríamos concluir que quedan muchas cuestiones por resolver, aunque parece haber cierta unanimidad en separar el <em>Manuscrito</em> de la filiación común de las ediciones impresas y, dentro de las <em>Comedias</em>, se suele presentar la de Burgos algo desligada de la tradición impresa y con una menor conexión con las <em>Tragicomedias</em>.</p>
+              </div>
+            </div>
+          </div>
+    </div> 
+      <br>
+      <br>
+  </div>
+  <div class="row">
+    <div class="col-sm-3"></div>
+    <div class="col-sm-6" id="pie" align="center">Noemí Román Avilés - 2024  <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es" target="_blank"> <img src=img/licencia.png style="width: 100px; height: 30px;" alt="Creative Commons CC BY-NC-ND 4.0 DEED"></a> </div>
+    <div class="col-sm-3"></div>
+  </div>
+</body>
+</html>
