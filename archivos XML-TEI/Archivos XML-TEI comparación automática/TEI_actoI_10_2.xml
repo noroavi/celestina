@@ -1,0 +1,784 @@
+Celestina 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema #B #D">lloraras</lem>
+    <rdg wit="#L #Z #P">lloras</rdg>
+</app> 
+sin prouecho 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D #Z #P">:</lem>
+    <rdg wit="#L"></rdg>
+</app> 
+por lo que llorando estoruar no 
+<app type="alternativa">
+    <lem wit="#lema">podras/</lem>
+    <rdg wit="#B #D #L #Z #P">podras :</rdg>
+</app> 
+ni sanar lo presumas . 
+<app type="grafia" subtype="mayusculas">
+    <lem wit="#lema #B #D">A</lem>
+    <rdg wit="#L #Z #P">a</rdg>
+</app> 
+otros no ha 
+<app type="alternativa">
+    <lem wit="#lema #D #Z #P">acontescido</lem>
+    <rdg wit="#B">contecido</rdg>
+    <rdg wit="#L">acontecido</rdg>
+</app> 
+esto 
+<app type="grafia" subtype="mayusculas">
+    <lem wit="#lema">Parmeno</lem>
+    <rdg wit="#B #D #L #Z #P">parmeno</rdg>
+</app> 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #L #Z #P">?</lem>
+    <rdg wit="#B">.</rdg>
+</app> 
+Parmeno 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema #B #L">si</lem>
+    <rdg wit="#D #P">si :</rdg>
+    <rdg wit="#Z">si/</rdg>
+</app> 
+pero 
+<app type="alternativa" subtype="separadas_en_base">
+    <lem wit="#lema #B #D #Z">a mi</lem>
+    <rdg wit="#L #P">ami</rdg>
+</app> 
+amo no le 
+<app type="alternativa">
+    <lem wit="#lema #B #D #L #P">querria</lem>
+    <rdg wit="#Z">queria</rdg>
+</app> 
+doliente . Celestina 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #L #Z #P"></lem>
+    <rdg wit="#B #D">.</rdg>
+</app> 
+no lo es
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema"></lem>
+    <rdg wit="#B #D #L #Z #P">:</rdg>
+</app> 
+mas 
+<app type="grafia" subtype="letras_equivalentes">
+    <lem wit="#lema #B #D #L #P">avn</lem>
+    <rdg wit="#Z">aun</rdg>
+</app> 
+que fuesse doliente podria sanar . Parmeno 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+no curo delo que dizes 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #L #Z #P">:</lem>
+    <rdg wit="#B">.</rdg>
+</app> 
+<app type="alternativa" subtype="unidas_en_base">
+    <lem wit="#lema #B #D #L #P">porque</lem>
+    <rdg wit="#Z">por que</rdg>
+</app> 
+<app type="alternativa" subtype="unidas_en_base">
+    <lem wit="#lema #B #D #L #Z">enlos</lem>
+    <rdg wit="#P">en los</rdg>
+</app> 
+bienes mejor es 
+<app type="alternativa">
+    <lem wit="#lema">al acto</lem>
+    <rdg wit="#B #D #L">el acto</rdg>
+    <rdg wit="#Z">el acto/</rdg>
+    <rdg wit="#P">el acto :</rdg>
+</app> 
+que la 
+<app type="alternativa">
+    <lem wit="#lema">poteneia</lem>
+    <rdg wit="#B #D #L #Z #P">potencia</rdg>
+</app> 
+: 
+<app type="alternativa">
+    <lem wit="#lema #B">& enlos males</lem>
+    <rdg wit="#D #L">y enlos males</rdg>
+    <rdg wit="#Z">y enlos malos</rdg>
+    <rdg wit="#P">y en los malos</rdg>
+</app> 
+mejor la 
+<app type="alternativa">
+    <lem wit="#lema #B #D #L">potencia</lem>
+    <rdg wit="#Z">potencia/</rdg>
+    <rdg wit="#P">potencia :</rdg>
+</app> 
+que el acto 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #L #Z #P">:</lem>
+    <rdg wit="#B">.</rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema">asi</lem>
+    <rdg wit="#B #D #L #Z #P">assi</rdg>
+</app> 
+que mejor es ser sano que poder lo ser 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #L #Z #P">:</lem>
+    <rdg wit="#B">.</rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema #B #P">&</lem>
+    <rdg wit="#D #L #Z">y</rdg>
+</app> 
+mejor es poder ser 
+<app type="alternativa">
+    <lem wit="#lema #B #D #L">doliente</lem>
+    <rdg wit="#Z">doliente/</rdg>
+    <rdg wit="#P">doliente :</rdg>
+</app> 
+que ser enfermo por acto 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #Z #P">:</lem>
+    <rdg wit="#B #L">.</rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema #B #P">&</lem>
+    <rdg wit="#D #Z">y</rdg>
+    <rdg wit="#L">E</rdg>
+</app> 
+por tanto es mejor tener la 
+<app type="alternativa">
+    <lem wit="#lema #B #D #L">potencia enel mal</lem>
+    <rdg wit="#Z">potentia enel mal/</rdg>
+    <rdg wit="#P">potencia en el mal :</rdg>
+</app> 
+que el acto . Celestina 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+o maluado 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #Z #P">:</lem>
+    <rdg wit="#B #L"></rdg>
+</app> 
+como que no se te entiende 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #B"></lem>
+    <rdg wit="#D">.</rdg>
+    <rdg wit="#L #Z #P">:</rdg>
+</app> 
+tu no sientes su enfermedad 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #L #Z #P">?</lem>
+    <rdg wit="#B #D">:</rdg>
+</app> 
+que has dicho 
+<app type="grafia" subtype="letras_equivalentes">
+    <lem wit="#lema #B #D #L #Z">hasta</lem>
+    <rdg wit="#P">fasta</rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema #B">agora</lem>
+    <rdg wit="#D #L">agora ?</rdg>
+    <rdg wit="#Z">agora/</rdg>
+    <rdg wit="#P">agora :</rdg>
+</app> 
+de que te quexas 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #L #Z #P">?</lem>
+    <rdg wit="#B">:</rdg>
+</app> 
+pues 
+<app type="alternativa">
+    <lem wit="#lema #B #D #L">burla</lem>
+    <rdg wit="#Z">burla/</rdg>
+    <rdg wit="#P">burla :</rdg>
+</app> 
+o di por verdad lo falso 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #B #L"></lem>
+    <rdg wit="#D #Z #P">:</rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema #D #L #Z">y</lem>
+    <rdg wit="#B #P">&</rdg>
+</app> 
+cree lo que quisieres : que el es enfermo por acto : 
+<app type="alternativa">
+    <lem wit="#lema #D #L #Z #P">y</lem>
+    <rdg wit="#B">&</rdg>
+</app> 
+el poder ser 
+<app type="alternativa">
+    <lem wit="#lema #B #D #L">sano</lem>
+    <rdg wit="#Z">sano/</rdg>
+    <rdg wit="#P">sano :</rdg>
+</app> 
+es en mano desta flaca vieja 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D #Z #P">.</lem>
+    <rdg wit="#L"></rdg>
+</app> 
+Parmeno 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+mas desta flaca puta vieja . Celestina 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+putos 
+<app type="alternativa">
+    <lem wit="#lema">dias biuas : vellaquillo &</lem>
+    <rdg wit="#B">dias viuas vellaquillo : &</rdg>
+    <rdg wit="#D">dias biuas : vellaquillo : y</rdg>
+    <rdg wit="#L">dias biuas vellaquillo &</rdg>
+    <rdg wit="#Z">dies viuas vellaqullo : y</rdg>
+    <rdg wit="#P">dias biuas vellaquillo : &</rdg>
+</app> 
+como te atreues . Parmeno 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+como te 
+<app type="alternativa">
+    <lem wit="#lema">conosco</lem>
+    <rdg wit="#B #D #L #Z #P">conozco</rdg>
+</app> 
+. Celestina 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+quien eres tu 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #L #Z #P">?</lem>
+    <rdg wit="#B">.</rdg>
+</app> 
+Parmeno 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+quien 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #L #Z #P">?</lem>
+    <rdg wit="#B">.</rdg>
+</app> 
+<app type="grafia" subtype="mayusculas">
+    <lem wit="#lema #B">Parmeno</lem>
+    <rdg wit="#D #L #Z #P">parmeno</rdg>
+</app> 
+hijo de 
+<app type="grafia" subtype="mayusculas">
+    <lem wit="#lema #L #Z #P">Alberto</lem>
+    <rdg wit="#B #D">alberto</rdg>
+</app> 
+tu compadre 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D #Z #P">:</lem>
+    <rdg wit="#L"></rdg>
+</app> 
+que estuue 
+<app type="alternativa" subtype="separadas_en_base">
+    <lem wit="#lema">con tigo</lem>
+    <rdg wit="#B #D #L #Z #P">contigo</rdg>
+</app> 
+vn 
+<app type="alternativa">
+    <lem wit="#lema #D">mes .</lem>
+    <rdg wit="#B">mes :</rdg>
+    <rdg wit="#L #Z">poco de tiempo :</rdg>
+    <rdg wit="#P">poco tiempo :</rdg>
+</app> 
+que te me dio mi 
+<app type="alternativa">
+    <lem wit="#lema #B #D #L">madre</lem>
+    <rdg wit="#Z">madre/</rdg>
+    <rdg wit="#P">madre :</rdg>
+</app> 
+quando morauas ala cuesta del 
+<app type="alternativa">
+    <lem wit="#lema #B #D #L">rio</lem>
+    <rdg wit="#Z">rio/</rdg>
+    <rdg wit="#P">rio :</rdg>
+</app> 
+cerca delas 
+<app type="alternativa">
+    <lem wit="#lema">tynerias .</lem>
+    <rdg wit="#B #D #P">tenerias .</rdg>
+    <rdg wit="#L">tenerias</rdg>
+    <rdg wit="#Z">tyneras .</rdg>
+</app> 
+Celestina 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema #D">iesu</lem>
+    <rdg wit="#B">jesu jesu jesu</rdg>
+    <rdg wit="#L">Jesu jesu jesu & tu eres parmeno hijo dela Claudina ? Parmeno alahe yo</rdg>
+    <rdg wit="#Z">Jesu</rdg>
+    <rdg wit="#P">jesu/ jesu/ jesu & tu eres parmeno hijo dela Claudina ? Parmeno alahe yo</rdg>
+</app> 
+. 
+<app type="alternativa">
+    <lem wit="#lema">iesu . iesu . y</lem>
+    <rdg wit="#B">E</rdg><
+    rdg wit="#D">iesu . iesu . &</rdg>
+    <rdg wit="#L #P">Celestina pues fuego malo te queme : que tan puta vieja era</rdg>
+    <rdg wit="#Z">jesu . jesu . y</rdg>
+</app> 
+tu 
+<app type="alternativa">
+    <lem wit="#lema">eres Parmeno hijo dela Clandiana ? Parmeno alahe</lem>
+    <rdg wit="#B">eres parmeno hijo dela Clandiana . Parmeno . alahe</rdg>
+    <rdg wit="#D">eres parmeno hijo dela clandiana ? Parmeno . alahe</rdg>
+    <rdg wit="#L #P">madre como</rdg>
+    <rdg wit="#Z">eres parmeno hijo dela Claudina ? Parmeno alahe</rdg>
+</app> 
+yo 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D #Z">.</lem>
+    <rdg wit="#L #P">:</rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema #B">Celestina . pues fuego malo te queme</lem>
+    <rdg wit="#D">Celestina . pues huego malo te queme</rdg>
+    <rdg wit="#L">porque me persigues parmenico</rdg>
+    <rdg wit="#Z">Celestina pues fuego malo te queme/ que tan puta vieja era tu madre como yo</rdg>
+    <rdg wit="#P">porque me persigues Parmeno ? el es</rdg>
+</app> 
+: 
+<app type="alternativa">
+    <lem wit="#lema #B #D"></lem>
+    <rdg wit="#L">es el ? el es por los sanctos de dios : allegate aca a mi : ven aca</rdg>
+    <rdg wit="#Z">por</rdg>
+    <rdg wit="#P">el es por los santos de dios : allegate ami ven aca :</rdg>
+</app> 
+que 
+<app type="alternativa">
+    <lem wit="#lema #B #D">tan puta vieja era tu madre como yo</lem>
+    <rdg wit="#L">mil açotes & puñadas te di eneste mundo</rdg>
+    <rdg wit="#Z">me persigues parmenico ? el es/ el es por los santos de dios</rdg>
+    <rdg wit="#P">mill açotes</rdg>
+</app> 
+: 
+<app type="alternativa">
+    <lem wit="#lema">porque me persigues Parmenico ? el es el es por los santos de dios</lem>
+    <rdg wit="#B">porque me persigues Parmenico . El es el es por los sanctos de dios . allega te a mi</rdg>
+    <rdg wit="#D">porque me persigues parmenico ? el es el es por los santos de dios</rdg>
+    <rdg wit="#L">& otros tantos besos . Acuerdaste quando dormias a mis pies lo quito . Parmeno si en buena fue</rdg>
+    <rdg wit="#Z">allega te a mi . ven aca/ que mil açotes/ y puñados te di eneste mundo</rdg>
+    <rdg wit="#P">& puñadas te di en este mundo</rdg>
+</app> 
+: 
+<app type="alternativa"><lem wit="#lema #D">allega</lem>
+    <rdg wit="#B">ven aca que mill açotes & puñadas</rdg>
+    <rdg wit="#L">& algunas vezes avn que era niño me subias ala cabecera : y me apretauas contigo : y porque olias a vieja me huy de ti . Celestina mala landre</rdg>
+    <rdg wit="#Z">y otros tantos besos . Acuerdas</rdg>
+    <rdg wit="#P">& otros tantos besos . Acuerdas</rdg>
+</app> 
+te 
+<app type="alternativa">
+    <lem wit="#lema #D">a mi</lem>
+    <rdg wit="#B">di eneste mundo</rdg>
+    <rdg wit="#L">mate</rdg>
+    <rdg wit="#Z">quando dormias a mis pies loquito ? Parmeno si en buena fe</rdg>
+    <rdg wit="#P">quando dormias amis pies loquito ? Parmeno si en buena fe</rdg>
+</app> 
+: 
+<app type="alternativa">
+    <lem wit="#lema #D">ven aca</lem>
+    <rdg wit="#B">& otros tantos besos . Acuerdas te quando dormias a mis pies loquito . Parmeno . si en buena fe : & algunas vezes avn</rdg>
+    <rdg wit="#L">& como lo dize el desuergonçado . Dexadas burlas & passa tiempos : oye agora mi hijo y escucha :</rdg>
+    <rdg wit="#Z">y algunas vezes aun</rdg>
+    <rdg wit="#P">& algunas vezes avn</rdg>
+</app> 
+que 
+<app type="alternativa">
+    <lem wit="#lema">mill açotes y puñadas te di eneste mundo y otros tantos besos . Acuerdas te quando dormias a mis pies loquito Parmeno . si en buena fe</lem>
+    <rdg wit="#B">era niño me subias ala cabecera & me apretauas contigo</rdg>
+    <rdg wit="#D">mill açotes & puñadas te di eneste mundo</rdg>
+    <rdg wit="#L">avn que avn fin soy llamada</rdg>
+    <rdg wit="#Z">era niño me subias ala cabecera</rdg>
+    <rdg wit="#P">era niño me subias ala cabecera & me apretauas contigo . & porque olias a vieja me huya de ti . Celestina mala landre te mate</rdg>
+</app> 
+: 
+<app type="alternativa">
+    <lem wit="#lema">y algunas vezes avn que era niño me subias ala cabeçera y me apretauas contigo : y porque olias</lem>
+    <rdg wit="#B">& porque olias</rdg>
+    <rdg wit="#D">y otros tantos besos . Acuerdas te quando dormias</rdg>
+    <rdg wit="#L"></rdg>
+    <rdg wit="#Z">y me apretauas contigo . y por que olias</rdg>
+    <rdg wit="#P">& como lo dize el desuergonçado . Dexadas burlas : & passatiempos : oye agora mi fijo : y escucha : que avn que</rdg>
+</app> 
+a 
+<app type="alternativa">
+    <lem wit="#lema #B">vieja</lem>
+    <rdg wit="#D">mis pies loquito ? Parmeno . si en buena fe : y algunas vezes avn que era niño</rdg>
+    <rdg wit="#L">otro soy venida : & maguera que contigo</rdg>
+    <rdg wit="#Z">veja</rdg>
+    <rdg wit="#P">vn fin soy llamada : a otro soy venida : & maguera que contigo</rdg>
+</app> 
+me 
+<app type="alternativa">
+    <lem wit="#lema #B">fuya</lem>
+    <rdg wit="#D">subias ala cabecera & me apretauas contigo : & porque olias a vieja me huya</rdg>
+    <rdg wit="#L">aya hecho</rdg>
+    <rdg wit="#Z">huya</rdg>
+    <rdg wit="#P">haya hecho</rdg>
+</app> 
+de 
+<app type="alternativa">
+    <lem wit="#lema #D #Z">ti</lem>
+    <rdg wit="#B">ti Celestina</rdg>
+    <rdg wit="#L">nueuas : tu eres la causa</rdg>
+    <rdg wit="#P">nueuas tu eres la causa</rdg>
+</app> 
+. 
+<app type="alternativa">
+    <lem wit="#lema #D">Celestina . mala landre</lem>
+    <rdg wit="#B">mala landre</rdg>
+    <rdg wit="#L">Hijo bien sabes como tu madre que dios aya</rdg>
+    <rdg wit="#Z">Celestina mala landre</rdg>
+    <rdg wit="#P">Hijo bien sabes : como tu madre : que dios aya</rdg>
+</app> 
+te 
+<app type="alternativa">
+    <lem wit="#lema #B #D #Z">mate</lem>
+    <rdg wit="#L #P">me dio biuiendo tu padre</rdg>
+</app> 
+:    
+<app type="alternativa">
+    <lem wit="#lema #D #Z">y</lem>
+    <rdg wit="#B">&</rdg>
+    <rdg wit="#L">el qual</rdg>
+    <rdg wit="#P">el qual :</rdg>
+</app> 
+como 
+<app type="alternativa">
+    <lem wit="#lema">lo dize el desuergonçado . Dexadas burlas y passatiempos</lem>
+    <rdg wit="#B">lo dize el desuergonçado . Dexadas burlas & pasatiempos</rdg>
+    <rdg wit="#D">lo dize el desuergonçado . Dexadas burlas y passatiempo</rdg>
+    <rdg wit="#L #P">de mi te fueste</rdg>
+    <rdg wit="#Z">lo dize el desuerguençado . Dexadas burlas/ y passatiempos</rdg>
+</app> 
+: 
+<app type="alternativa">
+    <lem wit="#lema">oye agora mi hijo y escucha que avnque a vn fin soy llamada a otro soy venida</lem>
+    <rdg wit="#B">oye agora mi fijo & escucha que avu que a vn fin soy llamada a otro so venida</rdg>
+    <rdg wit="#D">oye agora mi hijo y escucha que avn que a vn fin soy llamada</rdg>
+    <rdg wit="#L #P">con otra ansia no murio</rdg>
+    <rdg wit="#Z">oye agora mi hijo/ y escucha</rdg>
+</app> 
+: 
+ <app type="alternativa">
+    <lem wit="#lema">y maguera que contigo me aya fecho</lem>
+    <rdg wit="#B">& maguera que contigo me aya fecho</rdg>
+    <rdg wit="#D">a otro soy venida : y maguera que contigo me aya fecho</rdg>
+    <rdg wit="#L #P">sino con la incertidumbre</rdg>
+    <rdg wit="#Z">que aun que a vn fin soy llamada/ a otro soy venida : y maguera que contigo me haya hecho</rdg>
+</app> 
+de 
+<app type="alternativa">
+    <lem wit="#lema #B #D #Z">nueuas</lem>
+    <rdg wit="#L #P"></rdg>
+</app> 
+tu 
+<app type="alternativa">
+    <lem wit="#lema #B #D #Z">eres</lem>
+    <rdg wit="#L">vida y persona : por</rdg>
+    <rdg wit="#P">vida : & persona : por</rdg>
+</app> 
+la 
+<app type="alternativa">
+    <lem wit="#lema #B #D">causa . Hijo bien sabes como tu madre</lem>
+    <rdg wit="#L">qual ausencia algunos años de su vejez suffrio angustiosa : & cuydadosa vida : & al tiempo</rdg>
+    <rdg wit="#Z">causa . Hijo bien sabes/ como tu madre/</rdg>
+    <rdg wit="#P">qual absencia algunos años de su vejez sufrio angustiosa : & cuydadosa vida : & al tiempo</rdg>
+</app> 
+que 
+ <app type="alternativa">
+    <lem wit="#lema #B #D">dios aya</lem>
+    <rdg wit="#L #P">della passo embio por mi : y en su secreto</rdg>
+    <rdg wit="#Z">dios haya</rdg>
+</app> 
+te me 
+<app type="alternativa">
+    <lem wit="#lema #D #Z">dio biuiendo tu padre</lem>
+    <rdg wit="#B">dio viuiendo tu padre</rdg>
+    <rdg wit="#L">encargo</rdg>
+    <rdg wit="#P">encargo & me dixo sin otro testigo</rdg>
+</app> 
+: 
+<app type="alternativa">
+    <lem wit="#lema #B #D">el qual como</lem>
+    <rdg wit="#L">& me dixo sin otro testigo : sino aquel que es testigo</rdg>
+    <rdg wit="#Z">el qual/ como</rdg>
+    <rdg wit="#P">sino aquel : que es testigo</rdg>
+</app> 
+de 
+<app type="alternativa"><lem wit="#lema #B #D #Z"></lem>
+    <rdg wit="#L">todas las obras : & pensamientos : & los coraçones y entrañas escudriña : al qual puso entre el &</rdg>
+    <rdg wit="#P">todas las obras/ & pensamientos/ & los coraçones/ y entrañas escudriña : al qual puso entre el &</rdg>
+</app> 
+mi 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #B #D #Z"></lem>
+    <rdg wit="#L #P">:</rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema #B #D #Z"></lem>
+    <rdg wit="#L #P">que</rdg>
+</app> 
+te 
+<app type="alternativa">
+    <lem wit="#lema">fuiste con otra ansia no murio sino con la incertedumbre</lem>
+    <rdg wit="#B">fueste con otra ansia no murio sino conla incertedumbre</rdg>
+    <rdg wit="#D">fuiste con otra ansia no murio sino con la incertidumbre</rdg>
+    <rdg wit="#L">buscasse y llegasse & abrigasse . & quando</rdg>
+    <rdg wit="#Z">fuiste : con otra ansia no murio : sino conla incertedumbre</rdg>
+    <rdg wit="#P">buscasse/ y llegasse/ & abrigasse/ & quando</rdg>
+</app> 
+de 
+<app type="alternativa">
+    <lem wit="#lema #B #D #Z"></lem>
+    <rdg wit="#L">complida hedad fuesses : tal que en</rdg>
+    <rdg wit="#P">complida edad fuesses : tal que en</rdg>
+</app> 
+tu 
+<app type="alternativa">
+    <lem wit="#lema">vida</lem>
+    <rdg wit="#B #D">vida & persona</rdg>
+    <rdg wit="#L">biuir supiesses tener manera & forma</rdg>
+    <rdg wit="#Z">vida/ y persona</rdg>
+    <rdg wit="#P">biuir supiesses tener manera</rdg>
+</app> 
+: 
+<app type="alternativa">
+    <lem wit="#lema">y persona</lem>
+    <rdg wit="#B #D">por la qual absencia</rdg>
+    <rdg wit="#L">te descubriesse a donde dexo encerrada tal copia de oro & plata</rdg>
+    <rdg wit="#Z">por la qual absencia algunos años de su vejez suffrio angustia/ y cuydadosa vida</rdg>
+    <rdg wit="#P">& forma</rdg>
+</app> 
+: 
+<app type="alternativa">
+    <lem wit="#lema">por la qual absencia : algunos años</lem>
+    <rdg wit="#B #D">algunos años</rdg>
+    <rdg wit="#L">que basta mas que la renta</rdg>
+    <rdg wit="#Z">y al tiempo que della passo embio por mi/ y en su secreto te me encargo : y me dixo sin otro testigo : sino aquel/ que es testigo</rdg>
+    <rdg wit="#P">te descubriesse a donde dexo encerrada tal copia</rdg>
+</app> 
+de 
+<app type="alternativa">
+    <lem wit="#lema">su vejez sufrio angustiosa y cuydosa vida</lem>
+    <rdg wit="#B">su vejez sufrio angustiosa & cuydosa vida</rdg>
+    <rdg wit="#D">su vejez suffrio angustiosa & cuydosa vida</rdg>
+    <rdg wit="#L">tu amo Calisto</rdg>
+    <rdg wit="#Z">todas las obras/ y pensamientos</rdg>
+    <rdg wit="#P">oro/ & plata/ que basta mas que la renta de tu amo Calisto . & porque gelo prometi</rdg>
+</app> 
+: 
+<app type="alternativa">
+    <lem wit="#lema">y al tiempo que della passo enbio por mi y en su secreto te me encargo</lem>
+    <rdg wit="#B">& al tiempo que della passo embio por mi</rdg>
+    <rdg wit="#D">& al tiempo que della passo embio por mi & en su secreto te me encargo</rdg>
+    <rdg wit="#L">y porque gelo prometi</rdg>
+    <rdg wit="#Z">y los coraçones/ y entrañas escudriña</rdg>
+    <rdg wit="#P">& con mi promessa leuo descanso</rdg>
+</app> 
+: 
+<app type="alternativa">
+    <lem wit="#lema">y me dixo sin otro testigo sino aquel</lem>
+    <rdg wit="#B">& en su secreto te me encargo : & me dixo sin otro testigo sino aquel</rdg>
+    <rdg wit="#D">y me dixo sin otro testigo si no aquel</rdg>
+    <rdg wit="#L">de con mi promessa lleuo descanso : & la fe es de guardar : mas</rdg>
+    <rdg wit="#Z">al qual puso entre el y mi/</rdg>
+    <rdg wit="#P">& la fe es de guardar : mas</rdg>
+</app> 
+que 
+<app type="alternativa">
+    <lem wit="#lema">es testigo de todas las obras y pensamientos</lem>
+    <rdg wit="#B #D">es testigo de todas las obras & pensamientos</rdg>
+    <rdg wit="#L">alos biuos alos muertos que no pueden hazer por si</rdg>
+    <rdg wit="#Z">te buscasse/ y llegasse/ y abrigasse</rdg>
+    <rdg wit="#P">alos biuos</rdg>
+</app> 
+: 
+<app type="alternativa">
+    <lem wit="#lema">y los coraçones y entrañas escudriña</lem>
+    <rdg wit="#B">& los corozanos & entrañas escudriña</rdg>
+    <rdg wit="#D">& los coraçones y entrañas escudriña</rdg>
+    <rdg wit="#L">en pesquisa & siguimiento tuyo yo he gastado assaz tiempo & contias hasta agora que ha plazido a aquel que todos los cuydados tiene</rdg>
+    <rdg wit="#Z">y quando de complida edad fuesses</rdg>
+    <rdg wit="#P">a los muertos que no pueden hazer por si</rdg>
+</app> 
+: 
+<app type="alternativa">
+    <lem wit="#lema">al qual puso entre el y mi</lem>
+    <rdg wit="#B #D">al qual puso entre el & mi</rdg>
+    <rdg wit="#L">& remedia las justas peticiones : & las piadosas obras endereça :</rdg>
+    <rdg wit="#Z">tal</rdg>
+    <rdg wit="#P">en pesquisa : & siguimiento tuyo : yo he gastado assaz tiempo : & contias hasta agora</rdg>
+</app> 
+que 
+<app type="alternativa">
+    <lem wit="#lema #B #D #L"></lem>
+    <rdg wit="#Z">en tu biuir supiesses tener manera/ y forma :</rdg>
+    <rdg wit="#P">ha plazido a aquel : que todos los cuydados tiene : & remedia las justas peticiones : & las piadosas obras endereça : que</rdg>
+</app> 
+te 
+<app type="alternativa">
+    <lem wit="#lema">buscase y llegasse y abrigasse</lem>
+    <rdg wit="#B">buscasse & allegasse & abrigase</rdg>
+    <rdg wit="#D">buscasse y llegasse & abrigasse</rdg>
+    <rdg wit="#L">hallasse aqui donde solos ha tres dias que se que moras</rdg>
+    <rdg wit="#Z">descubriesse a donde dexo encerrada tal copia de oro/ y plata</rdg>
+    <rdg wit="#P">hallasse aqui</rdg>
+</app> 
+    : 
+<app type="alternativa">
+    <lem wit="#lema #D">& quando de complida edad fuesses : tal</lem>
+    <rdg wit="#B">& quando de complida edad fueses : tal</rdg>
+    <rdg wit="#L">sin dubda dolor he sentido : porque has tantas partes vagado : & peregrinado :</rdg>
+    <rdg wit="#Z"></rdg>
+    <rdg wit="#P">donde solos ha tres dias</rdg>
+</app> 
+que 
+<app type="alternativa">
+    <lem wit="#lema">en tu biuir supiesses tener manera y forma te descubriesse a donde dexo encerrada tal copia de oro & plata que basta mas que la renta de tu amo Calisto</lem>
+    <rdg wit="#B">en tu viuir supieses tener manera & forma</rdg>
+    <rdg wit="#D">en tu biuir supiesses tener manera & forma</rdg>
+    <rdg wit="#L">ni has auido prouecho</rdg>
+    <rdg wit="#Z">basta mas que la renta de tu amo Calisto . y porque gelo prometi</rdg>
+    <rdg wit="#P">se que moras</rdg>
+</app> 
+:
+<app type="alternativa">
+    <lem wit="#lema">y por</lem>
+    <rdg wit="#B">te descubriesse a donde dexo encerrada tal copia de oro & plata</rdg>
+    <rdg wit="#D">te descubriesse a donde dexo encerrada tal copia de oro & plata :</rdg>
+    <rdg wit="#L">ni ganado deudo : ni amistad :</rdg>
+    <rdg wit="#Z">y con mi promessa leuo descanso : y la fe es de guardar/ mas</rdg>
+    <rdg wit="#P">sin dubda dolor he sentido : porque has por tantas partes vagado : & peregrinado :</rdg>
+</app> 
+que 
+<app type="alternativa">
+    <lem wit="#lema">gelo prometi y con mi promessa lleuo descanso</lem>
+    <rdg wit="#B">basta mas que la renta de tu amo calisto . & porque gelo prometi & con mi promessa lleuo descanso</rdg>
+    <rdg wit="#D">basta mas que la renta de tu amo calisto</rdg>
+    <rdg wit="#L">como Seneca dixo . Los peregrinos tienen muchas posadas</rdg>
+    <rdg wit="#Z">alos biuos/ alos muertos que no pueden hazer por si</rdg>
+    <rdg wit="#P">ni has auido pronecho</rdg>
+</app> 
+: 
+<app type="alternativa">
+    <lem wit="#lema">y la fe es de guardar mas que alos biuos alos muertos que no pueden hazer por si</lem>
+    <rdg wit="#B">& la fe es de guardar mas que alos viuos alos muertos que no pueden hazer por si</rdg>
+    <rdg wit="#D">y porque gelo prometi</rdg>
+    <rdg wit="#L">y pocas amistades</rdg>
+    <rdg wit="#Z">en pesquisa/ y siguimiento tuyo</rdg>
+    <rdg wit="#P">ni ganado debdo</rdg>
+</app> 
+: 
+<app type="alternativa">
+    <lem wit="#lema">en pesquisa y seguimiento tuyo : yo he gastado asaz tiempo : y quantias hasta agora</lem>
+    <rdg wit="#B">en pesquisa & seguimiento tuyo yo he gastado asaz tiempo & quantias : hasta agora</rdg>
+    <rdg wit="#D">& con mi promessa lleuo descanso : & la fe es de guardar mas</rdg>
+    <rdg wit="#L">porque en breue tiempo con ninguno pueden firmar amistad . Y el</rdg>
+    <rdg wit="#Z">yo he gastado assaz tiempo/ y quantias hasta agora</rdg>
+    <rdg wit="#P">ni amistad .</rdg>
+</app> 
+que <app type="alternativa"><lem wit="#lema #B">ha plazido aquel</lem>
+    <rdg wit="#D">alos biuos alos muertos</rdg>
+    <rdg wit="#L">esta en muchos cabos esta en ninguno : ni puede aprouechar el manjar alos cuerpos</rdg>
+    <rdg wit="#Z">ha plazido a aquel/</rdg>
+    <rdg wit="#P">como Seneca dize . Los peregrinos tienen muchas posadas : & pocas amistades : porque en breue tiempo con ninguno pueden firmar amistad . y el</rdg>
+</app> 
+que 
+<app type="alternativa">
+    <lem wit="#lema">todos los cuydados tiene & remedia las justas peticiones y las piadosas obras endereça</lem>
+    <rdg wit="#B">todos los cuydados tiene</rdg>
+    <rdg wit="#D">no pueden hazer por si . en pesquisa y seguimiento tuyo</rdg>
+    <rdg wit="#L">en comiendo se lança</rdg>
+    <rdg wit="#Z">todos los cuytados tiene</rdg>
+    <rdg wit="#P">esta en muchos cabos esta en ninguno</rdg>
+</app> 
+: 
+<app type="alternativa">
+    <lem wit="#lema"></lem>
+    <rdg wit="#B">& remedia las justas peticiones & las piadosas obras endereça :</rdg>
+    <rdg wit="#D">yo he gastado assaz tiempo & quantias hasta agora</rdg>
+    <rdg wit="#L">ni ay cosa</rdg>
+    <rdg wit="#Z">y remedia las justas peticiones : y las piadosas obras endereça :</rdg>
+    <rdg wit="#P">ni puede aprouechar el manjar alos cuerpos</rdg>
+</app> 
+que 
+<app type="alternativa">
+    <lem wit="#lema">te hallasse aqui donde he sentido</lem>
+    <rdg wit="#B">te hallase aqui donde solos ha tres dias que se que moras</rdg>
+    <rdg wit="#D">ha plazido a aquel que todos los cuydados tiene</rdg>
+    <rdg wit="#L">mas la sanidad impida</rdg>
+    <rdg wit="#Z">te hallasse aqui</rdg>
+    <rdg wit="#P">en comiendo se lança</rdg>
+</app>
+: 
+<app type="alternativa">
+    <lem wit="#lema">porque has por tantas partes vagado y peregrinado :</lem>
+    <rdg wit="#B">sin duda dolor he sentido : porque has por tantas partes vagado & peregrinado :</rdg>
+    <rdg wit="#D">y remedia las justas peticiones & las piadosas obras endereça :</rdg>
+    <rdg wit="#L"></rdg>
+    <rdg wit="#Z">donde solos ha tres dias</rdg>
+    <rdg wit="#P">ni ay cosa</rdg>
+</app> 
+que 
+<app type="alternativa">
+    <lem wit="#lema #B">ni has hauido prouecho ni ganado debdo ni amistad</lem>
+    <rdg wit="#D">te hallasse aqui donde solos ha tres dias</rdg>
+    <rdg wit="#L">la diuersidad & mudança : & variacion delos manjares : & nunca la llaga viene a cicatrizar : enla qual muchas medicinas se tientan : ni conualesce la planta :</rdg>
+    <rdg wit="#Z">se</rdg>
+    <rdg wit="#P">mas la sanidad impida :</rdg>
+</app> 
+que 
+<app type="alternativa">
+    <lem wit="#lema">como Seneca dize</lem>
+    <rdg wit="#B">como Seneca nos dize</rdg>
+    <rdg wit="#D">se que moras : sin dubda dolor he sentido : porque has por tantas partes vagado y peregrinado : que ni has auido prouecho : ni ganado deudo ni amistad que como Seneca dize</rdg>
+    <rdg wit="#L">muchas vezes es traspuesta</rdg>
+    <rdg wit="#Z">moras : sin dubda dolor he sentido : porque has por tantas partes vagado/ y peregrinado : que ni has auido prouecho : ni ganado debdo/ ni amistad</rdg>
+    <rdg wit="#P">la diuersidad & mudança : & variacion delos manjares</rdg>
+</app> 
+. 
+<app type="alternativa">
+    <lem wit="#lema">los peregrinos tienen muchas posadas : y pocas amistades : porque</lem>
+    <rdg wit="#B">Los peregrinos tienen muchas posadas & pocas amistades . Por que</rdg>
+    <rdg wit="#D">los peregrinos tienen muchas posadas & pocas amistades : porque</rdg>
+    <rdg wit="#L">& no ay cosa tan prouechosa que</rdg>
+    <rdg wit="#Z">que como Seneca dize . Los peregrinos tienen muchas posadas : y pocas amistades : porque</rdg>
+    <rdg wit="#P">& nunca la llaga viene a cicatrizar</rdg>
+</app> 
+en 
+<app type="alternativa">
+    <lem wit="#lema #D">breue tiempo con ninguno no pueden firmar amistad</lem>
+    <rdg wit="#B">breue tiempo con ninguno no pueden firmar amistad . E el que esta en muchos cabos no esta en ninguno . ni puede aprouechar el manjar alos cuerpos que en comiendo se lança . ni ay cosa que mas la sanidad impida que la diuersidad & mudança & variacion delos manjares . & nunca la llaga viene a cicatrizar</rdg>
+    <rdg wit="#L">llegando aproueche</rdg>
+    <rdg wit="#Z">breue tiempo con ninguno pueden firmar amistad . y el que sta en muchos cabos esta en ninguno</rdg>
+    <rdg wit="#P">la qual muchas melezinas se tientan</rdg>
+</app> 
+: 
+<app type="alternativa">
+    <lem wit="#lema">y el que esta en muchos cabos no esta en ninguno : ni puede aprouechar el manjar alos cuerpos que en comiendo se lança : ni ay cosa que mas la sanidad impida que la diuersidad y mudança y variacion delos manjares : y nunca la llaga viene a cicatrizar enla qual muchas melezinas se tiemptan ni conualesce la planta que muchas vezes es traspuesta : y no ay cosa tan prouechosa que en llegando aproueche :</lem>
+    <rdg wit="#B">enla qual muchas melezinas se tientan . ni conualesce la planta que muchas vezes es traspuesta . ni ay cosa tan prouechosa que en llegando aproueche :</rdg><rdg wit="#D">y el que esta en muchos cabos : non esta en ninguno : ni puede aprouechar el manjar alos cuerpos : que en comiendo se lança : ni ay cosa que mas la sanidad impida que la diuersidad & mudança & variacion delos manjares : & nunca la llaga viene a cicatrizar : enla qual muchas melezinas se tientan ni conualesce la planta que muchas vezes es traspuesta : & no ay cosa tan prouechosa que en llegando aproueche :</rdg><rdg wit="#L"></rdg>
+    <rdg wit="#Z">ni puede aprouechar el manjar alos cuerpos que en comiendo se lança : ni hay cosa que mas la sanidad impida : que la diuersidad y mudança/ y variacion delos manjares . y nunca la llaga viene a cicatrizar enla qual muchas melezinas se tientan/ ni conualesce la planta : que muchas vezes es traspuesta . y no ay cosa tan prouechosa/ que en llegando aproueche .</rdg>
+    <rdg wit="#P">ni conualesce la planta : que muchas vezes es traspuesta . & no ay cosa tan prouechosa : que en llegando aproueche .</rdg>
+</app>

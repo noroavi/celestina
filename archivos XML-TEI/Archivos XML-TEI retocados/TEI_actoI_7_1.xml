@@ -1,0 +1,748 @@
+Calisto 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+parmeno 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema">?</lem>
+    <rdg wit="#B #Z #P">.</rdg>
+    <rdg wit="#D #L"></rdg>
+</app> 
+Parmeno 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+señor. 
+Calisto 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+no oyes 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D">:</lem>
+    <rdg wit="#B #L #Z #P"></rdg>
+</app> 
+maldito sordo 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #L #Z #P">?</lem>
+    <rdg wit="#B">.</rdg>
+</app> 
+Parmeno 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+que es señor 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #L">.</lem>
+    <rdg wit="#D #Z #P">?</rdg>
+</app> 
+Calisto 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app>
+ala puerta llaman 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #B #D "></lem>
+    <rdg wit="#L">.</rdg>
+    <rdg wit="#Z">/</rdg>
+    <rdg wit="#P">:</rdg>
+</app> 
+corre 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema">?</lem>
+    <rdg wit="#B #D #L #Z #P">.</rdg>
+</app> 
+Parmeno 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+quien es 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema">.</lem>
+    <rdg wit="#B"></rdg>
+    <rdg wit="#D #L #Z #P">?</rdg>
+</app> 
+Sempronio 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+abre 
+<app type="alternativa" subtype="separadas_en_base">
+    <lem wit="#lema #B #D #L">a mi</lem>
+    <rdg wit="#Z">ami/ </rdg>
+    <rdg wit="#P">ami</rdg>
+</app> 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #B #D #L #Z"></lem>
+    <rdg wit="#P">:</rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema #D #Z">y</lem>
+    <rdg wit="#B #L #P">&</rdg>
+</app> 
+a esta dueña. 
+Parmeno 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app>
+señor 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #B"></lem>
+	<rdg wit="#D #L #P">:</rdg>
+	<rdg wit="#Z">/</rdg>
+</app>
+<app type="grafia" subtype="mayusculas">
+    <lem wit="#lema">Sempronio</lem>
+    <rdg wit="#B #D #L #Z #P">sempronio</rdg>
+</app> 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #B #D #L"></lem>
+    <rdg wit="#Z #P">:</rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema #Z">y</lem>
+    <rdg wit="#B #D #L #P">&</rdg>
+</app> 
+vna puta vieja alcoholada dauan aquellas porradas 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #L #Z #P">.</lem>
+    <rdg wit="#B"></rdg>
+</app> 
+Calisto 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+calla 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #B #D #L #Z"></lem>
+    <rdg wit="#P">:</rdg>
+</app> 
+calla maluado 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D #Z #P">:</lem>
+    <rdg wit="#L"></rdg>
+</app> 
+que es mi 
+<app type="alternativa">
+    <lem wit="#lema #B">tia.</lem>
+    <rdg wit="#D">tya.</rdg>
+    <rdg wit="#L #Z #P">tia:</rdg>
+</app> 
+corre 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #B #D #L #Z"></lem>
+    <rdg wit="#P">:</rdg>
+</app> 
+corre 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #B #D #Z #P"></lem>
+    <rdg wit="#L">.</rdg>
+</app> 
+abre. siempre lo vi 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #B #D"></lem>
+    <rdg wit="#L #Z #P">:</rdg>
+</app> 
+que por 
+<app type="grafia" subtype="letras_equivalentes">
+    <lem wit="#lema #B #D #L">huyr</lem>
+    <rdg wit="#Z #P">fuyr</rdg>
+</app> 
+hombre de vn 
+<app type="alternativa">
+    <lem wit="#lema">peligro: cahe</lem>
+    <rdg wit="#B">peligro cae</rdg>
+    <rdg wit="#D #L #P">peligro: cae</rdg>
+    <rdg wit="#Z">peligro/ cae</rdg>
+</app>
+en otro mayor. Por 
+<app type="alternativa">
+    <lem wit="#lema #D">encobrir</lem>
+    <rdg wit="#B #L #Z #P">encubrir</rdg>
+</app> 
+yo este 
+<app type="grafia" subtype="letras_equivalentes">
+    <lem wit="#lema #D #L #Z #P">hecho</lem>
+    <rdg wit="#B">fecho</rdg>
+</app> 
+de 
+<app type="grafia" subtype="mayusculas">
+    <lem wit="#lema">Parmeno</lem>
+    <rdg wit="#B #D #L #Z #P">parmeno</rdg>
+</app> 
+: 
+<app type="alternativa" subtype="unidas_en_base">
+    <lem wit="#lema #D">aquien</lem>
+    <rdg wit="#B #L #Z #P">a quien</rdg>
+</app> 
+amor o fidelidad 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #B #D #L #Z"></lem>
+    <rdg wit="#P">:</rdg>
+</app> 
+o temor pusieran freno cay en indignacion 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #D #L #Z #P"></lem>
+    <rdg wit="#B">.</rdg>
+</app> 
+desta 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #B #D #Z"></lem>
+    <rdg wit="#L #P">:</rdg>
+</app> 
+que no tiene menor poderio en mi vida que dios 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D #Z #P">.</lem>
+    <rdg wit="#L"></rdg>
+</app> 
+Parmeno 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+<app type="grafia" subtype="mayusculas">
+    <lem wit="#lema #B #D #Z #P">porque</lem>
+    <rdg wit="#L">Porque</rdg>
+</app> 
+señor te matas 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #L #Z #P">?</lem>
+    <rdg wit="#B"></rdg>
+</app> 
+porque señor te congoxas 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #L #Z #P">?</lem>
+    <rdg wit="#B">:</rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema #Z">y</lem>
+    <rdg wit="#B #D #L #P">&</rdg>
+</app> 
+tu piensas que es vituperio 
+<app type="alternativa" subtype="unidas_en_base">
+    <lem wit="#lema #B #D #L #Z">enlas</lem>
+    <rdg wit="#P">en las</rdg>
+</app> 
+orejas desta 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #B #D #L #Z"></lem>
+    <rdg wit="#P">?</rdg>
+</app> 
+el 
+<app type="alternativa">
+    <lem wit="#lema">nonbre</lem>
+    <rdg wit="#B #D #L #Z">nombre</rdg>
+    <rdg wit="#P">hombre</rdg>
+</app>
+que 
+<app type="alternativa">
+    <lem wit="#lema #B #D #Z #P">la</lem>
+    <rdg wit="#L">le</rdg>
+</app> 
+llame 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #L #Z">?</lem>
+    <rdg wit="#B #P">:</rdg>
+</app> 
+no 
+<app type="alternativa">
+    <lem wit="#lema"></lem>
+    <rdg wit="#B #D #L #Z #P">lo</rdg>
+</app> 
+creas: que 
+<app type="alternativa">
+    <lem wit="#lema">asi te</lem>
+    <rdg wit="#B #D #P">assi se</rdg>
+    <rdg wit="#L">assi le</rdg>
+    <rdg wit="#Z">ansi se</rdg>
+</app> 
+glorifica 
+<app type="alternativa">
+    <lem wit="#lema #B #L #P">en le</lem>
+    <rdg wit="#D">en lo</rdg>
+    <rdg wit="#Z">enlo</rdg>
+</app> 
+oyr 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #L #Z #P">:</lem>
+    <rdg wit="#B"></rdg>
+</app> 
+como tu quando dizen: diestro cauallero es 
+<app type="grafia" subtype="mayusculas">
+    <lem wit="#lema #B #P">Calisto</lem>
+    <rdg wit="#D #L #Z">calisto</rdg>
+</app> 
+. 
+<app type="alternativa">
+    <lem wit="#lema #D #L #Z">Y</lem>
+    <rdg wit="#B">E</rdg>
+    <rdg wit="#P">y</rdg>
+</app> 
+de mas desto es nombrada 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #B #D"></lem>
+    <rdg wit="#L #P">:</rdg>
+    <rdg wit="#Z">/</rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema #Z">y</lem>
+    <rdg wit="#B #D #L #P">&</rdg>
+</app>
+por tal titulo 
+<app type="alternativa">
+    <lem wit="#lema #D #Z #P">conoscida</lem>
+    <rdg wit="#B #L">conocida</rdg>
+</app> 
+. Si 
+<app type="alternativa">
+    <lem wit="#lema">entra cient mugeres</lem>
+    <rdg wit="#B #D #P">entre cient mugeres</rdg>
+    <rdg wit="#L">entre cien mugeres</rdg>
+    <rdg wit="#Z">entre cient mujeres</rdg>
+</app> 
+va 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #B #D"></lem>
+    <rdg wit="#L #Z #P">:</rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema #Z">y</lem>
+    <rdg wit="#B #D #L #P">&</rdg>
+</app> 
+alguno dize 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #B #D #L #Z"></lem>
+    <rdg wit="#P">:</rdg>
+</app> 
+puta vieja 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema"></lem>
+    <rdg wit="#B #D #L #Z #P">:</rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema">alcahueta:</lem>
+    <rdg wit="#B #D #L #Z #P"></rdg>
+</app> 
+sin ningun empacho 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema">:</lem>
+    <rdg wit="#B #D #L #Z #P"></rdg>
+</app> 
+luego buelue la cabeça 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #L #Z #P">:</lem>
+    <rdg wit="#D"></rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema #D #L #Z">y</lem>
+    <rdg wit="#B #P">&</rdg>
+</app> 
+responde con alegre cara. 
+<app type="alternativa" subtype="separadas_en_base">
+    <lem wit="#lema #P">En los</lem>
+    <rdg wit="#B #D #L #Z">Enlos</rdg>
+</app> 
+combites 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #L #Z">:</lem>
+    <rdg wit="#B">.</rdg>
+    <rdg wit="#D"></rdg>
+    <rdg wit="#P">/</rdg>
+</app> 
+<app type="alternativa" subtype="unidas_en_base">
+    <lem wit="#lema #B #D #L #Z">enlas</lem>
+    <rdg wit="#P">en las</rdg>
+</app> 
+fiestas 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #L #Z">:</lem>
+    <rdg wit="#B">.</rdg>
+    <rdg wit="#D"></rdg>
+    <rdg wit="#P">/</rdg>
+</app> 
+<app type="alternativa" subtype="unidas_en_base">
+    <lem wit="#lema #B #D #L #Z">enlas</lem>
+    <rdg wit="#P">en las</rdg>
+</app> 
+bodas 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #L #Z">:</lem>
+    <rdg wit="#B">.</rdg>
+    <rdg wit="#D"></rdg>
+    <rdg wit="#P">/</rdg>
+</app> 
+<app type="alternativa" subtype="unidas_en_base">
+    <lem wit="#lema #B #D #L #Z">enlas</lem>
+    <rdg wit="#P">en las</rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema #D">confradias enlos</lem>
+    <rdg wit="#B">confradias. enlos</rdg>
+    <rdg wit="#L #Z">confradias: enlos</rdg>
+    <rdg wit="#P">cofradias/ en los</rdg>
+</app> 
+mortuorios 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #D"></lem>
+    <rdg wit="#B">.</rdg>
+    <rdg wit="#L #Z">:</rdg>
+    <rdg wit="#P">/</rdg>
+</app> 
+en todos los 
+<app type="alternativa">
+    <lem wit="#lema">ajuntamientos</lem>
+    <rdg wit="#B #D #L #Z #P">ayuntamientos</rdg>
+</app> 
+de 
+<app type="alternativa">
+    <lem wit="#lema #B #D #Z #P">gentes:</lem>
+    <rdg wit="#L">gente</rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema #D">con ella passan tiempo</lem>
+    <rdg wit="#B #Z">conella passan tiempo:</rdg>
+    <rdg wit="#L #P">con ella passan tiempo.</rdg>
+</app> 
+si passa por los perros 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">:</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+aquello suena su ladrido 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #D"></lem>
+    <rdg wit="#B">.</rdg>
+    <rdg wit="#L #Z #P">:</rdg>
+</app> 
+si esta cerca las aues otra cosa no cantan
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #D"></lem>
+    <rdg wit="#B">.</rdg>
+    <rdg wit="#L #Z #P">:</rdg>
+</app> 
+si cerca los ganados balando lo pregonan
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #B #D"></lem>
+    <rdg wit="#L #Z #P">:</rdg>
+</app>  
+si cerca las bestias rebuznando dizen
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema">:</lem>
+    <rdg wit="#B #D #L #Z #P"></rdg>
+</app>
+puta vieja
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema"></lem>
+    <rdg wit="#D #Z">:</rdg>
+    <rdg wit="#B #L #P">.</rdg>
+</app>
+las ranas delos charcos otra cosa no suelen mentar
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema"></lem>
+    <rdg wit="#B">.</rdg>
+    <rdg wit="#D #L #Z #P">:</rdg>
+</app>
+si va entre los herreros
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D">:</lem>
+    <rdg wit="#B #L #Z #P"></rdg>
+</app>
+aquello dizen sus martillos
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #L #Z">:</lem>
+    <rdg wit="#B">.</rdg>
+    <rdg wit="#P">/</rdg>
+</app>
+carpinteros
+<app type="alternativa">
+    <lem wit="#lema">: y armeros: herradores: caldereyros arcadores</lem>
+    <rdg wit="#B">& armeros. herradores. caldereros. arcadores.</rdg>
+    <rdg wit="#D">y armeros herradores caldereros arcadores.</rdg>
+    <rdg wit="#L">& armeros: herradores caldereros arcadores.</rdg>
+    <rdg wit="#Z">/ y armeros/ herradores/ caldereros/ arcadores.</rdg>
+    <rdg wit="#P">/ & armeros/ herradores/ caldereros/ arcadores/</rdg>
+</app> 
+Todo
+<app type="alternativa">
+    <lem wit="#lema #D #Z #P">officio</lem>
+    <rdg wit="#B #L">oficio</rdg>
+</app> 
+de instrumento forma
+<app type="alternativa">
+    <lem wit="#lema">enel are</lem>
+    <rdg wit="#B #D #L #Z #P">enel ayre</rdg>
+</app> 
+su nombre.
+<app type="alternativa" subtype="unidas_en_base">
+    <lem wit="#lema">Cantanla</lem>
+    <rdg wit="#B #D #L #Z #P">Cantan la</rdg>
+</app> 
+los carpinteros
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #L #Z #P">:</lem>
+    <rdg wit="#B">.</rdg>
+</app> 
+peynan la los peynadores
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #L">:</lem>
+    <rdg wit="#D"></rdg>
+    <rdg wit="#B">.</rdg>
+    <rdg wit="#Z #P">/</rdg>
+</app>
+texedores 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #L">:</lem>
+    <rdg wit="#B">.</rdg>
+    <rdg wit="#D"></rdg>
+	<rdg wit="#Z #P">/</rdg>
+</app> 
+labradores 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #D #L #Z"></lem>
+    <rdg wit="#B">.</rdg>
+    <rdg wit="#P">/</rdg>
+</app> 
+<app type="alternativa" subtype="unidas_en_base">
+    <lem wit="#lema #B #D #L #Z">enlas</lem>
+    <rdg wit="#P">en las</rdg>
+</app> 
+huertas 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #L #Z">:</lem>
+    <rdg wit="#B">.</rdg>
+    <rdg wit="#D"></rdg>
+    <rdg wit="#P">/</rdg>
+</app> 
+<app type="alternativa" subtype="unidas_en_base">
+    <lem wit="#lema #B #D #L #Z">enlas</lem>
+    <rdg wit="#P">en las</rdg>
+</app> 
+aradas 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #D"></lem>
+    <rdg wit="#B">.</rdg>
+    <rdg wit="#L #Z">:</rdg>
+    <rdg wit="#P">/</rdg>
+</app> 
+<app type="alternativa" subtype="unidas_en_base">
+    <lem wit="#lema #B #D #L #Z">enlas</lem>
+    <rdg wit="#P">en las</rdg>
+</app> 
+viñas 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #L #Z">:</lem>
+    <rdg wit="#B">.</rdg>
+    <rdg wit="#D"></rdg>
+    <rdg wit="#P">/</rdg>
+</app> 
+<app type="alternativa" subtype="unidas_en_base">
+    <lem wit="#lema #B #D #L #Z">enlas</lem>
+    <rdg wit="#P">en las</rdg>
+</app> 
+segadas 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">:</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+<app type="alternativa" subtype="separadas_en_base">
+    <lem wit="#lema #L #P">con ella</lem>
+    <rdg wit="#B #D #Z">conella</rdg>
+</app> 
+passan el 
+<app type="alternativa">
+    <lem wit="#lema #D #Z">affan cotidiano</lem>
+    <rdg wit="#B #P">afan cotidiano.</rdg>
+    <rdg wit="#L">affan quotidiano:</rdg>
+</app> 
+al perder 
+<app type="alternativa" subtype="unidas_en_base">
+    <lem wit="#lema #B #D #L #Z">enlos</lem>
+    <rdg wit="#P">en los</rdg>
+</app> 
+tableros 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #L #Z #P">:</lem>
+    <rdg wit="#B">.</rdg>
+</app> 
+luego suenan 
+<app type="alternativa">
+    <lem wit="#lema #B #L #Z #P">sus</lem>
+    <rdg wit="#D">los</rdg>
+</app> 
+loores 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #B"></lem>
+    <rdg wit="#D #L">:</rdg>
+    <rdg wit="#Z #P">.</rdg>
+</app> 
+<app type="grafia" subtype="mayusculas">
+    <lem wit="#lema #B #D #L">todas</lem>
+    <rdg wit="#Z #P">Todas</rdg>
+</app> 
+cosas que son 
+<app type="grafia" subtype="letras_equivalentes">
+    <lem wit="#lema #D #Z #P">hazen</lem>
+    <rdg wit="#B #L">fazen</rdg>
+</app> 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #L #Z">:</lem>
+    <rdg wit="#B">.</rdg>
+    <rdg wit="#P"></rdg>
+</app> 
+a do quiera 
+<app type="alternativa">
+    <lem wit="#lema #B #L #Z #P">que</lem>
+    <rdg wit="#D"></rdg>
+</app> 
+ella esta el tal nombre 
+<app type="alternativa">
+    <lem wit="#lema #B #Z #P">representa</lem>
+    <rdg wit="#D #L">representan</rdg>
+</app> 
+. O que comedor de hueuos 
+<app type="alternativa">
+    <lem wit="#lema #D #L #Z #P">assados</lem>
+    <rdg wit="#B">asados</rdg>
+</app> 
+era su marido 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #L #Z #P">.</lem>
+    <rdg wit="#D"></rdg>
+</app> 
+Que 
+<app type="alternativa">
+    <lem wit="#lema">queres</lem>
+    <rdg wit="#B #D #L #Z #P">quieres</rdg>
+</app> 
+mas 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #Z #P">:</lem>
+    <rdg wit="#D">?</rdg>
+    <rdg wit="#L"></rdg>
+</app> 
+sino 
+<app type="alternativa">
+    <lem wit="#lema #D #L #Z #P">que</lem>
+    <rdg wit="#B"></rdg>
+</app> 
+si vna piedra 
+<app type="alternativa">
+    <lem wit="#lema #B #L #Z #P">topa</lem>
+    <rdg wit="#D">toca</rdg>
+</app> 
+con otra 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B">:</lem>
+    <rdg wit="#D #L #Z #P"></rdg>
+</app> 
+luego suena puta vieja. 
+Calisto 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema #Z">y</lem>
+    <rdg wit="#B #D #L #P">&</rdg>
+</app> 
+tu como lo sabes 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #B #D #L"></lem>
+    <rdg wit="#Z">/</rdg>
+    <rdg wit="#P">:</rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema #D #Z">y</lem>
+    <rdg wit="#B #L #P">&</rdg>
+</app> 
+la 
+<app type="alternativa">
+    <lem wit="#lema #D #Z #P">conosces?</lem>
+    <rdg wit="#B">conosces.</rdg>
+    <rdg wit="#L">conoces?</rdg>
+</app> 
+Parmeno 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+<app type="alternativa" subtype="unidas_en_base">
+    <lem wit="#lema">saberlo</lem>
+    <rdg wit="#B #D #L #Z #P">saber lo</rdg>
+</app> 
+has. 
+<app type="grafia" subtype="mayusculas">
+    <lem wit="#lema #B #D #L #Z">Dias</lem>
+    <rdg wit="#P">dias</rdg>
+</app> 
+grandes son passados 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #Z">:</lem>
+    <rdg wit="#B #L #P"></rdg>
+</app> 
+que mi madre 
+<app type="alternativa">
+    <lem wit="#lema #B #D #L #P">muger</lem>
+    <rdg wit="#Z">mujer</rdg>
+</app> 
+pobre moraua en su vezindad: la qual rogada por esta 
+<app type="grafia" subtype="mayusculas">
+    <lem wit="#lema #B">Celestina</lem>
+    <rdg wit="#D #L #Z #P">celestina</rdg>
+</app> 
+me dio a ella
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #B #D #L #P"></lem>
+    <rdg wit="#Z">/</rdg>
+</app> 
+por 
+<app type="alternativa">
+    <lem wit="#lema #B #D #L #P">siruiente</lem>
+    <rdg wit="#Z">seruiente</rdg>
+</app> 
+: 
+<app type="grafia" subtype="letras_equivalentes">
+    <lem wit="#lema #B #D #L #P">avn</lem>
+    <rdg wit="#Z">aun</rdg>
+</app> 
+que ella no me 
+<app type="alternativa">
+    <lem wit="#lema #D #L">conosce</lem>
+    <rdg wit="#B">conoce</rdg>
+    <rdg wit="#Z">conosce:</rdg>
+    <rdg wit="#P">conoçe</rdg>
+</app> 
+por lo poco que la serui: 
+    <app type="alternativa">
+    <lem wit="#lema #Z">y</lem>
+    <rdg wit="#B #D #L #P">&</rdg>
+</app> 
+por la mudança que la edad ha 
+<app type="grafia" subtype="letras_equivalentes">
+    <lem wit="#lema #B #D #Z #P">hecho</lem>
+    <rdg wit="#L">fecho</rdg>
+</app> 
+. 
+Calisto 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+de que la 
+<app type="sin_coincidencia">
+    <lem wit="#lema #B #D #L #P">seruias</lem>
+    <rdg wit="#Z">siruias</rdg>
+</app> 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #L #Z #P">?</lem>
+    <rdg wit="#B">.</rdg>
+</app>

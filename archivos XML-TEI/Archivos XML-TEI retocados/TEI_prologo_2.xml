@@ -1,0 +1,574 @@
+El 
+<app type="alternativa">
+    <lem wit="#lema #D #Z">autor</lem>
+    <rdg wit="#L #P">auctor</rdg>
+</app> 
+a 
+<app type="grafia" subtype="letras_equivalentes">
+    <lem wit="#lema">un</lem>
+    <rdg wit="#D #L #Z #P">vn</rdg>
+</app> 
+su amigo. 
+SUelen los que de sus tierras 
+<app type="grafia" subtype="letras_equivalentes">
+    <lem wit="#lema #D #Z #P">absentes</lem>
+    <rdg wit="#L">ausentes</rdg>
+</app> 
+se 
+<app type="grafia" subtype="letras_equivalentes">
+    <lem wit="#lema">fallan</lem>
+    <rdg wit="#D #L #Z #P">hallan</rdg>
+</app> 
+considerar: de que cosa aquel lugar donde 
+<app type="alternativa">
+    <lem wit="#lema #L #Z #P">parten</lem>
+    <rdg wit="#D">parte</rdg>
+</app>
+mayor inopia 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema">.</lem>
+    <rdg wit="#D #L #Z"></rdg>
+    <rdg wit="#P">:</rdg>
+</app> 
+o falta 
+<app type="alternativa">
+    <lem wit="#lema #L #Z #P">padezca</lem>
+    <rdg wit="#D">padezce</rdg>
+</app>
+: para con la tal seruir alos conterraneos de quien en algun tiempo beneficio recebido tienen: 
+<app type="alternativa">
+    <lem wit="#lema #D #L #P">&</lem>
+    <rdg wit="#Z">y</rdg>
+</app>
+viendo que legitima obligacion a 
+<app type="alternativa" subtype="separadas_en_base">
+    <lem wit="#lema #D #Z #P">inuestigar lo</lem>
+    <rdg wit="#L">inuestigarlo</rdg>
+</app>
+<app type="alternativa">
+    <lem wit="#lema">semijante</lem>
+    <rdg wit="#D #L #Z #P">semejante</rdg>
+</app> 
+me 
+<app type="alternativa">
+    <lem wit="#lema">complia:</lem>
+    <rdg wit="#D #L">compelia</rdg>
+    <rdg wit="#Z #P">compelia:</rdg>
+</app> 
+para pagar las muchas mercedes de vuestra libre liberalidad recebidas: 
+<app type="alternativa">
+    <lem wit="#lema">asaz</lem>
+    <rdg wit="#D #L #Z #P">assaz</rdg>
+</app> 
+vezes retraydo en mi camara acostado sobre mi
+<app type="alternativa">
+    <lem wit="#lema #D #Z #P">propia</lem>
+    <rdg wit="#L">propria</rdg>
+</app>
+mano: echando mis sentidos por ventores: 
+<app type="alternativa">
+    <lem wit="#lema #D #L #P">&</lem>
+    <rdg wit="#Z">y</rdg>
+</app> 
+mi juyzio a bolar 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #Z #P">:</lem>
+    <rdg wit="#L"></rdg>
+</app> 
+me venia ala memoria: no solo la necessidad que nuestra comun patria tiene dela presente obra por la muchedumbre de galanes 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #D #L #Z"></lem>
+    <rdg wit="#P">:</rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema #P">&</lem>
+    <rdg wit="#D #L #Z">y</rdg>
+</app> 
+enamorados 
+<app type="alternativa">
+    <lem wit="#lema #D #L #P">mancebos</lem>
+    <rdg wit="#Z">mançebos</rdg>
+</app> 
+que 
+<app type="alternativa">
+    <lem wit="#lema">posee.</lem>
+    <rdg wit="#D">possee</rdg>
+    <rdg wit="#L #Z #P">possee:</rdg>
+</app> 
+pero 
+<app type="grafia" subtype="letras_equivalentes">
+    <lem wit="#lema #D #L #P">avn</lem>
+    <rdg wit="#Z">aun</rdg>
+</app> 
+en particular vuestra 
+<app type="alternativa">
+    <lem wit="#lema">mesma</lem>
+    <rdg wit="#D #L #Z #P">misma</rdg>
+</app> 
+persona 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D">:</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+cuya 
+<app type="grafia" subtype="letras_equivalentes">
+    <lem wit="#lema #D #L #P">juuentud</lem>
+    <rdg wit="#Z">iuuentud</rdg>
+</app> 
+de amor ser presa 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #D #L"></lem>
+    <rdg wit="#Z #P">:</rdg>
+</app> 
+se me representa 
+<app type="alternativa">
+    <lem wit="#lema #D #L #P">auer</lem>
+    <rdg wit="#Z">hauer</rdg>
+</app> 
+visto: 
+<app type="alternativa">
+    <lem wit="#lema #Z #P">&</lem>
+    <rdg wit="#D #L">y</rdg>
+</app> 
+del cruelmente lastimada
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #D"></lem>
+    <rdg wit="#L #Z #P">:</rdg>
+</app> 
+a causa 
+<app>
+    <lem wit="#lema">dele</lem>
+    <rdg wit="#D #L #Z #P">de le</rdg>
+</app> 
+faltar defensiuas armas para resistir sus fuegos 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema"></lem>
+    <rdg wit="#D #Z #P">:</rdg>
+    <rdg wit="#L">.</rdg>
+</app> 
+<app type="grafia" subtype="mayusculas">
+    <lem wit="#lema #D #L">las</lem>
+    <rdg wit="#Z #P">Las</rdg>
+</app> 
+quales 
+<app type="grafia" subtype="letras_equivalentes">
+    <lem wit="#lema #D #Z #P">halle</lem>
+    <rdg wit="#L">falle</rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema #D #L">esculpidas enestos papeles</lem>
+    <rdg wit="#Z">sculpidas enestos papeles</rdg>
+    <rdg wit="#P">esculpidas en estos papeles</rdg>
+</app> 
+: no fabricadas 
+<app type="alternativa" subtype="unidas_en_base">
+    <lem wit="#lema #D #L #Z">enlas</lem>
+    <rdg wit="#P">en las</rdg>
+</app> 
+grandes 
+<app type="alternativa">
+    <lem wit="#lema #D #L #P">herrerias</lem>
+    <rdg wit="#Z">harrerias</rdg>
+</app>
+de Milan 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema"></lem>
+    <rdg wit="#D #L #Z #P">:</rdg>
+</app> 
+mas 
+<app type="alternativa" subtype="unidas_en_base">
+    <lem wit="#lema #D">enlos</lem>
+    <rdg wit="#L #Z #P">en los</rdg>
+</app> 
+claros ingenios de doctos varones castellanos formadas: 
+<app type="alternativa">
+    <lem wit="#lema #D #L #P">& como</lem>
+    <rdg wit="#Z">y co mo</rdg>
+</app> 
+mirasse su 
+<app type="alternativa">
+    <lem wit="#lema #D #L #Z">primor</lem>
+    <rdg wit="#P">primo</rdg>
+</app> 
+: 
+<app type="alternativa">
+    <lem wit="#lema #D #L #Z"></lem>
+    <rdg wit="#P">sotil artificio:</rdg>
+</app>
+su 
+<app type="alternativa">
+    <lem wit="#lema #L">sotil artificio su</lem>
+    <rdg wit="#D #Z">sotil artificio: su</rdg>
+    <rdg wit="#P"></rdg>
+</app> 
+fuerte 
+<app type="alternativa">
+    <lem wit="#lema #P">&</lem>
+    <rdg wit="#D #L #Z">y</rdg>
+</app> 
+claro metal: su modo 
+<app type="alternativa">
+    <lem wit="#lema #L #P">&</lem>
+    <rdg wit="#D #Z">y</rdg>
+</app> 
+manera de 
+<app type="grafia" subtype="letras_equivalentes">
+    <lem wit="#lema #Z #P">lauor</lem>
+    <rdg wit="#D #L">labor</rdg>
+</app> 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #Z #P">:</lem>
+    <rdg wit="#L"></rdg>
+</app>
+su 
+<app type="alternativa">
+    <lem wit="#lema #D #L #P">estilo</lem>
+    <rdg wit="#Z">stilo</rdg>
+</app> 
+elegante 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D">.</lem>
+    <rdg wit="#L #Z #P">:</rdg>
+</app> 
+<app type="grafia" subtype="mayusculas">
+    <lem wit="#lema #D">Jamas</lem>
+    <rdg wit="#L #Z #P">jamas</rdg>
+</app> 
+en nuestra castellana lengua visto 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #D #Z #P"></lem>
+    <rdg wit="#L">:</rdg>
+</app> 
+ni oydo 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D">:</lem>
+    <rdg wit="#L #Z #P">.</rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema">ley lo tres/</lem>
+    <rdg wit="#D">leylo tres</rdg>
+    <rdg wit="#L #Z #P">Ley lo tres</rdg>
+</app> 
+o quatro vezes: 
+<app type="alternativa">
+<lem wit="#lema #D #L #P">&</lem>
+<rdg wit="#Z">y</rdg>
+</app> 
+tantas quantas mas lo leya: tanta mas necessidad me ponia de 
+<app type="alternativa">
+    <lem wit="#lema #P">releer lo</lem>
+    <rdg wit="#D">releerlo</rdg>
+    <rdg wit="#L">leer lo</rdg>
+    <rdg wit="#Z">releer lo</rdg>
+</app> 
+: 
+<app type="alternativa">
+    <lem wit="#lema">& tanto mas me agradaua: &</lem>
+    <rdg wit="#D">y tanto mas me agradaua: y</rdg>
+    <rdg wit="#L">& tanto mas me agradaua y</rdg>
+    <rdg wit="#Z"> y tanta mas me agradaua y</rdg>
+    <rdg wit="#P">& tanto mas me agradaua: y</rdg>
+</app> 
+en su processo nueuas sentencias 
+<app type="alternativa">
+    <lem wit="#lema">sentia. vi no folo</lem>
+    <rdg wit="#D">tenia. Vi no solo</rdg>
+    <rdg wit="#L #Z">sentia: vi no solo</rdg>
+    <rdg wit="#P">sentia: vino solo</rdg>
+</app> 
+ser dulce en su principal 
+<app type="alternativa">
+    <lem wit="#lema">ystoria.</lem>
+    <rdg wit="#D">hystoria:</rdg>
+    <rdg wit="#L #P">historia:</rdg>
+    <rdg wit="#Z">ystoria</rdg>
+</app> 
+o ficion toda junta 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D">:</lem>
+    <rdg wit="#L"></rdg>
+    <rdg wit="#Z #P">.</rdg>
+</app> 
+pero avn de algunas sus particularidades salian 
+<app type="alternativa">
+    <lem wit="#lema #D #Z">delectables</lem>
+    <rdg wit="#L #P">deleytables</rdg>
+</app> 
+fontezicas de 
+<app type="alternativa">
+    <lem wit="#lema">filosophia</lem>
+    <rdg wit="#D #L #Z #P">filosofia</rdg>
+</app> 
+: de 
+<app type="alternativa">
+    <lem wit="#lema #D #L #P">otros agradables donayres:</lem>
+    <rdg wit="#Z">otras agradables donayres: </rdg>
+</app> 
+de otros
+<app type="alternativa">
+    <lem wit="#lema">auisos y consejos: contra lisongeros & malos siruientes & falsas mugeres hechizeras</lem>
+    <rdg wit="#D">auisos y consejos contra lisonjeros & malos siruientes & falsas mugeres hechizeras</rdg>
+    <rdg wit="#L">auisos & consejos contra lisonjeros de malos seruientes: & falsas mugeres hechizeras</rdg>
+    <rdg wit="#Z">auisos y consejos contra lisongeros: y malos siruientes: y falsas mujeres hechizeras.</rdg>
+    <rdg wit="#P">auisos & consejos contra lisonjeros & malos seruientes: & falsas mugeres hechizeras</rdg>
+</app> 
+
+vi que 
+<app type="alternativa">
+    <lem wit="#lema">non tenia su firma del autor</lem>
+    <rdg wit="#D">no tenia su firma del auctor</rdg>
+    <rdg wit="#L">no tenia su firma del auctor el qual segun algunos dizen fue Juan de mena: & segun otros Rodrigo cota</rdg>
+    <rdg wit="#Z">no tenia su firma del autor: el qual segun algunos dizen fue Juan mena: y segun otros Rodrigo cota</rdg>
+    <rdg wit="#P">no tenia su firma del autor el qual segun algunos dizen fue juan de mena: & segun otros rodrigo cota </rdg>
+</app> 
+: 
+<app type="alternativa">
+    <lem wit="#lema">& era la causa que estaua por acabar: pero quien quier que fuesse es digno</lem>
+    <rdg wit="#D">y era la causa que estaua por acabar: pero quien quiera que fuesse es digno</rdg>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema #D #P">pero quien quier que fuesse es digno</lem>
+    <rdg wit="#D">pero quien quiera que fuesse es digno</rdg>
+    <rdg wit="#L">pero quien quier que fuesse: es digno</rdg>
+    <rdg wit="#Z">pero quienquier que fuesse: es digno </rdg>
+    <rdg wit="#P">pero quienquier que fuesse: digno</rdg>
+</app> 
+de recordable memoria por la sotil inuencion 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #Z #P">:</lem>
+    <rdg wit="#L"></rdg>
+</app> 
+por la gran copia de sentencias 
+<app type="alternativa">
+    <lem wit="#lema #D">entrexeridas</lem>
+    <rdg wit="#L">enxeridas</rdg>
+    <rdg wit="#Z">entretexidas:</rdg>
+    <rdg wit="#P">entrexeridas:</rdg>
+</app> 
+que so color de donayres 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema">.</lem>
+    <rdg wit="#D #L #Z #P"></rdg>
+</app> 
+tiene 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #L">.</lem>
+    <rdg wit="#Z #P">:</rdg>
+</app> 
+gran filosofo era 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D">:</lem>
+    <rdg wit="#L #Z">.</rdg>
+    <rdg wit="#P"></rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema #P">&</lem>
+    <rdg wit="#D #L #Z">y</rdg>
+</app>
+pues el con 
+<app type="alternativa">
+    <lem wit="#lema #D #Z #P"></lem>
+    <rdg wit="#L">el</rdg>
+</app> 
+temor de 
+<app type="alternativa">
+    <lem wit="#lema #L">detractores & nocibles</lem>
+    <rdg wit="#D">detractores y nocibles</rdg>
+    <rdg wit="#Z">detractores / y noçibles</rdg>
+    <rdg wit="#P">detratores & nocibles</rdg>
+</app> 
+lenguas mas aparejadas 
+<app type="alternativa" subtype="separadas_en_base">
+    <lem wit="#lema #D #Z #P">a reprehender</lem>
+    <rdg wit="#L">areprehender</rdg>
+</app> 
+que a saber 
+<app type="alternativa">
+    <lem wit="#lema">inuentar cielo</lem>
+    <rdg wit="#D">inuentas: celo</rdg>
+    <rdg wit="#L">inuentar quiso celar & encobrir</rdg>
+    <rdg wit="#Z #P">inuentar: quiso celar & encubrir</rdg>
+</app> 
+su nombre
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #Z #P">:</lem>
+    <rdg wit="#L"></rdg>
+</app> 
+no me 
+<app type="alternativa">
+    <lem wit="#lema">cumlpeys</lem>
+    <rdg wit="#D #L">culpeys</rdg>
+    <rdg wit="#Z">culpes</rdg>
+    <rdg wit="#P">culpays</rdg>
+</app> 
+si 
+<app type="alternativa" subtype="unidas_en_base">
+    <lem wit="#lema #D #L">enel</lem>
+    <rdg wit="#Z #P">en el</rdg>
+</app> 
+fin baxo que 
+<app type="alternativa">
+    <lem wit="#lema #L">le</lem>
+    <rdg wit="#D #Z #P">lo</rdg>
+</app> 
+pongo no 
+<app type="alternativa">
+    <lem wit="#lema">espresare</lem>
+    <rdg wit="#D #P">espressare</rdg>
+    <rdg wit="#L #Z">expressare</rdg>
+</app> 
+el mio 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #D #Z"></lem>
+    <rdg wit="#L #P">:</rdg>
+</app>
+<app type="alternativa">
+    <lem wit="#lema #L #Z #P">mayormente</lem>
+    <rdg wit="#D">mayor mente</rdg>
+</app> 
+que siendo jurista yo: 
+<app type="alternativa" subtype="unidas_en_base">
+    <lem wit="#lema">avnque</lem>
+    <rdg wit="#D #L #Z #P">avn que</rdg>
+</app> 
+obra discreta 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #Z #P">:</lem>
+    <rdg wit="#L"></rdg>
+</app> 
+es 
+<app type="alternativa">
+    <lem wit="#lema #D #L #P">agena</lem>
+    <rdg wit="#Z">ajena</rdg>
+</app> 
+de mi facultad <app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema">:</lem>
+    <rdg wit="#D #L #Z #P">.</rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema #D #L #P">& quien</lem>
+    <rdg wit="#Z">y quién</rdg>
+</app> 
+lo supiesse diria 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #P">:</lem>
+    <rdg wit="#D #L #Z"></rdg>
+</app>
+que no por recreacion de mi 
+<app type="alternativa">
+    <lem wit="#lema">principal estndio</lem>
+    <rdg wit="#D">principal estudio</rdg>
+    <rdg wit="#L #P">principal estudio:</rdg>
+    <rdg wit="#Z">principal studio:</rdg>
+</app>
+del qual yo mas me 
+<app type="alternativa">
+    <lem wit="#lema #D #L #Z">precio</lem>
+    <rdg wit="#P">precia</rdg>
+</app> 
+como es la verdad lo 
+<app type="grafia" subtype="letras_equivalentes">
+    <lem wit="#lema #L">fiziesse</lem>
+    <rdg wit="#D #Z #P">hiziesse</rdg>
+</app> 
+: antes distraydo delos derechos 
+<app type="alternativa" subtype="separadas_en_base">
+    <lem wit="#lema #P">en esta</lem>
+    <rdg wit="#D #L #Z">enesta</rdg>
+</app>
+nueua 
+<app type="grafia" subtype="letras_equivalentes">
+    <lem wit="#lema #Z #P">lauor</lem>
+    <rdg wit="#D #L">labor</rdg>
+</app> 
+me entremetiesse: pero 
+<app type="grafia" subtype="letras_equivalentes">
+    <lem wit="#lema #D #L #P">avn</lem>
+    <rdg wit="#Z">aun</rdg>
+</app> 
+que no 
+<app type="alternativa">
+    <lem wit="#lema #D #L #P">acierten</lem>
+    <rdg wit="#Z">açierten</rdg>
+</app> 
+seria pago de mi osadia. 
+<app type="alternativa">
+    <lem wit="#lema">asi mismo</lem>
+    <rdg wit="#D #P">assi mesmo</rdg>
+    <rdg wit="#L #Z">Assi mesmo</rdg>
+</app> 
+pensarian que no quinze dias de vnas vacaciones 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #D #L #Z"></lem>
+    <rdg wit="#P">:</rdg>
+</app> 
+mientra mis socios en sus tierras en acabar lo me 
+<app type="alternativa">
+    <lem wit="#lema #D #Z">detouiesse</lem>
+    <rdg wit="#L #P">detuuiesse</rdg>
+</app>
+como es lo cierto 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #L">:</lem>
+    <rdg wit="#Z #P"></rdg>
+</app> 
+pero avn mas tiempo 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #D"></lem>
+    <rdg wit="#L #Z #P">:</rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema #D #L #Z">y</lem>
+    <rdg wit="#P">&</rdg>
+</app> 
+menos 
+<app type="alternativa">
+    <lem wit="#lema">accepto.</lem>
+    <rdg wit="#D">acepto.</rdg>
+    <rdg wit="#L #Z #P">acepto:</rdg>
+</app> 
+para desculpa delo qual todo 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #D #Z #P"></lem>
+    <rdg wit="#L">:</rdg>
+</app> 
+no solo a vos: pero a quantos lo leyeren 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #D"></lem>
+    <rdg wit="#L #Z #P">:</rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema #D #L">offrezco</lem>
+    <rdg wit="#Z #P">ofrezco</rdg>
+</app> 
+los siguientes metros. 
+<app type="alternativa">
+    <lem wit="#lema">E por que conozcays</lem>
+    <rdg wit="#D">Y porque conozcays</rdg>
+    <rdg wit="#L">E porque conozcays</rdg>
+    <rdg wit="#Z">Y porque conoscays</rdg>
+    <rdg wit="#P">& porque conoscays</rdg>
+</app> 
+donde comiençan mis mal doladas razones 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #Z #P"></lem>
+    <rdg wit="#D #L">:</rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema #D">& acaban las</lem>
+    <rdg wit="#L #Z #P">acorde que todo lo</rdg>
+</app> 
+del antiguo 
+<app type="alternativa">
+    <lem wit="#lema">auctor: enla margen hallareys vna cruz: & es el fin dela primera cena.</lem>
+    <rdg wit="#D">autor: enla margen hallareys vna cruz: y es el fin dela primera cena.</rdg>
+    <rdg wit="#L">auctor fuesse sin diuision en vn auto o cena incluso hasta el segundo acto donde dize. Hermanos mios. & c.</rdg>
+    <rdg wit="#Z">autor: fuesse sin diuision envn acto/ o cena incluso hasta el segundo acto donde dize. Hermanos mios. & cetera.</rdg>
+    <rdg wit="#P">autor: fuesse sin diuision en vn auto: o cena incluso hasta el segundo acto donde dize. Hermanos mios. & cetera.</rdg>
+</app>  
+<app type="alternativa">
+    <lem wit="#lema #Z #P">Vale</lem>
+    <rdg wit="#D #L">Uale</rdg>
+</app> 
+.

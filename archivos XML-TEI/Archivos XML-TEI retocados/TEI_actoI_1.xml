@@ -1,0 +1,237 @@
+<app type="alternativa">
+    <lem wit="#lema">Calisto Melibea. Sempronio. Celestina. Elicia. Crito. Parmeno</lem>
+    <rdg wit="#B">Calisto Parmeno Sempronio Celestina</rdg>
+    <rdg wit="#D">Celestina. Elicia. Crito. Parmeno. Sempronio. Celestina</rdg>
+    <rdg wit="#L">Calisto. Melibea. Parmeno. Sempronio. elicia. crito</rdg>
+    <rdg wit="#Z">Calisto. Melibea. Sempronio. Celestina. Elicia. Crito. Parmeno</rdg>
+    <rdg wit="#P">Parmeno. Calisto. Melibea. Sempronio. Celestina. Elicia. Crito</rdg>
+</app> 
+. 
+ENesto veo melibea la grandeza de dios.
+Melibea
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema #L #Z #P">en que calisto?</lem>
+    <rdg wit="#B">en que calisto</rdg>
+    <rdg wit="#D">enque calisto?</rdg>
+</app> 
+Calisto
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+en dar poder a natura que de tan
+<app type="alternativa">
+    <lem wit="#lema">perfeta fermosura te dotasse: & hazer a mi</lem>
+    <rdg wit="#B">perfeta hermosura te dotasse: & fazer a mi</rdg>
+    <rdg wit="#D">perfecta hermosura te dotasse: y fazer a mi</rdg>
+    <rdg wit="#L">perfecta fermosura te dotasse: & fazer a mi</rdg>
+    <rdg wit="#Z">perfecta hermosura te dotasse y hazer a mi</rdg>
+    <rdg wit="#P">perfecta hermosura te dotasse & fazer ami</rdg>
+</app>
+inmerito tanta merced que 
+<app type="alternativa" subtype="separadas_en_base">
+    <lem wit="#lema #B #D #Z #P">ver te</lem>
+    <rdg wit="#L">verte</rdg>
+</app> 
+alcançasse:
+<app type="alternativa">
+    <lem wit="#lema #B">& en tan conueniente lugar</lem>
+    <rdg wit="#D #L #P">y en tan conueniente lugar</rdg>
+    <rdg wit="#Z">y en tan conueniente lugar:</rdg>
+</app> 
+que mi secreto dolor manifestar te pudiesse
+<app type="alternativa">
+    <lem wit="#lema">sin dubda encomparablemente</lem>
+    <rdg wit="#B">sin duda encomparablemente</rdg>
+    <rdg wit="#D #P">sin duda incomparablemente</rdg>
+    <rdg wit="#L">sin dubda incomparablemente</rdg>
+    <rdg wit="#Z">sin duda incomparable mente</rdg>
+</app> 
+es mayor tal galardon que el seruicio
+<app type="alternativa">
+    <lem wit="#lema #B #D #L">: sacrificio: deuocion: & obras pias</lem>
+    <rdg wit="#Z">: sacrificio: deuocion y obras pias</rdg>
+    <rdg wit="#P">: sacrificio deuocion: & obras pias</rdg>
+</app>
+que por este lugar alcançar tengo yo a dios
+<app type="alternativa">
+    <lem wit="#lema #B">ofrescido</lem>
+    <rdg wit="#D #L #Z">offrecido</rdg>
+    <rdg wit="#P">offrescido</rdg>
+</app>
+.
+<app type="alternativa">
+    <lem wit="#lema #B #D">Ni otro poder mi voluntad humana puede complir</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+quien vido 
+<app type="alternativa" subtype="unidas_en_base">
+    <lem wit="#lema #B #D #Z">enesta </lem>
+    <rdg wit="#L #P">en esta</rdg>
+</app>
+vida cuerpo glorificado de ningun hombre como agora el mio
+<app type="alternativa">
+    <lem wit="#lema #D #L #P #Z">?</lem>
+    <rdg wit="#B">.</rdg>
+</app>
+Por cierto los gloriosos
+<app type="alternativa">
+    <lem wit="#lema #D #L #P #Z">santos</lem>
+    <rdg wit="#B">sanctos</rdg>
+</app> 
+que se deleytan 
+<app type="alternativa" subtype="unidas_en_base">
+    <lem wit="#lema #B #D #Z">enla</lem>
+    <rdg wit="#L #P">en la</rdg>
+</app>. 
+vision diuina no gozan mas que yo agora 
+<app type="alternativa" subtype="unidas_en_base">
+    <lem wit="#lema #B #D #L #Z">enel</lem>
+    <rdg wit="#P">en el</rdg>
+</app> 
+acatamiento tuyo. Mas o triste que 
+<app type="alternativa">
+    <lem wit="#lema">en esto deferimos</lem>
+    <rdg wit="#B">enesto deferimos</rdg>
+    <rdg wit="#D">enesto diferimos</rdg>
+    <rdg wit="#L #P">en esto diferimos</rdg>
+    <rdg wit="#Z">enesto deferimus</rdg>
+</app> 
+: que ellos puramente se glorifican sin temor de caer de tal bienauenturança:
+<app type="alternativa">
+    <lem wit="#lema #B">& yo misto me alegro</lem>
+    <rdg wit="#D">& yo mixto me algro</rdg>
+    <rdg wit="#L">& yo mistome alegro</rdg>
+    <rdg wit="#Z">y yo misto me alegro</rdg>
+    <rdg wit="#P">& yo misto me alegro</rdg>
+</app>
+con recelo del esquiuo tormento que
+<app type="alternativa">
+    <lem wit="#lema #B #D #Z #P">absencia</lem>
+    <rdg wit="#L">ausencia</rdg>
+</app>
+me ha de causar.
+Melibea
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema">por grand premio tienes este calisto.</lem>
+    <rdg wit="#B">por grand premio tienes esto calisto</rdg>
+    <rdg wit="#D #L #Z #P">por gran premio tienes este calisto?</rdg>
+</app>
+Calisto
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app>
+<app type="alternativa">
+    <lem wit="#lema">tengolo por tanto en verdad</lem>
+    <rdg wit="#B #D #Z #P">tengo lo por tanto en verdad</rdg>
+    <rdg wit="#L">tengo lo por tanto en verdad:</rdg>
+</app>
+que si dios me diesse
+<app type="alternativa">
+    <lem wit="#lema #B #D #L #Z">enel</lem>
+    <rdg wit="#P">en el</rdg>
+</app>
+cielo la silla sobre sus
+<app type="alternativa">
+    <lem wit="#lema #D #L #Z #P">santos</lem>
+    <rdg wit="#B">sanctos</rdg>
+</app>
+no lo ternia por tanta felicidad.
+Melibea
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+pues avn mas ygual galardon te dare yo si perseueras.
+Calisto
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app>
+<app type="alternativa">
+    <lem wit="#lema">o bien auentuturadas</lem>
+    <rdg wit="#B #D #L #Z #P">o bienauenturadas orejas</rdg>
+</app>
+orejas mias que indignamente tan gran palabra 
+<app type="alternativa">
+    <lem wit="#lema #B">haueys oydo</lem>
+    <rdg wit="#D #L #Z #P">aueys oydo</rdg>
+</app> 
+Melibea
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+mas desauenturadas de que me acabes de oyr: porque la paga sera tan fiera qual
+<app type="alternativa">
+    <lem wit="#lema #B">la merece</lem>
+    <rdg wit="#B">la merece</rdg>
+    <rdg wit="#L">merece</rdg>
+    <rdg wit="#Z #P">meresce</rdg>
+</app>
+tu loco atreuimiento y el intento de tus palabras calisto
+<app type="alternativa">
+    <lem wit="#lema">a seydo:</lem>
+    <rdg wit="#B #L #P #Z">ha seydo:</rdg>
+    <rdg wit="#D">ha seydo</rdg>
+</app>
+de ingenio de tal hombre como tu
+<app type="alternativa">
+    <lem wit="#lema #B">hauer</lem>
+    <rdg wit="#D #L #P">auer</rdg>
+    <rdg wit="#Z">auie</rdg>
+</app>
+de salir para se perder
+<app type="alternativa" subtype="separadas_en_base">
+    <lem wit="#lema #B #Z #P">en la</lem>
+    <rdg wit="#D #L">enla</rdg>
+</app>
+virtud de tal 
+<app type="alternativa">
+    <lem wit="#lema">muger como yo. Vete</lem>
+    <rdg wit="#B #D">muger como yo. Uete</rdg>
+    <rdg wit="#L">muger como yo? Uete</rdg>
+    <rdg wit="#Z">mujer como yo? Uete</rdg>
+    <rdg wit="#P">muger como yo? Vete</rdg>
+</app>
+vete de ay torpe
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D #Z #P">:</lem>
+    <rdg wit="#L "></rdg>
+</app>
+que no puede mi paciencia
+<app type="alternativa">
+    <lem wit="#lema">tollerar que aya subjdo</lem>
+    <rdg wit="#B #D">tollerar que aya subido</rdg>
+    <rdg wit="#L #P">tolerar que aya subido</rdg>
+    <rdg wit="#Z">tolerar que haya subido</rdg>
+</app>
+en coraçon humano
+<app type="alternativa">
+    <lem wit="#lema">con migo el illicito amor comunicar</lem>
+    <rdg wit="#B">comigo el ylicito amor comunicar</rdg>
+    <rdg wit="#D">con migo el ylicito amor comunicar</rdg>
+    <rdg wit="#L">comigo en illicito amor communicar</rdg>
+    <rdg wit="#Z #P">conmigo en ilicito amor communicar</rdg>
+</app>
+su deleyte.
+Calisto
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app>
+yre como aquel contra quien solamente la aduersa fortuna pone su 
+<app type="alternativa">
+    <lem wit="#lema #B #D #L #P">estudio</lem>
+    <rdg wit="#Z">studio</rdg>
+</app>
+con odio cruel.
