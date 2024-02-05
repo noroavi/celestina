@@ -1,0 +1,251 @@
+Calisto 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+<app type="grafia" subtype="mayusculas">
+    <lem wit="#lema">Sempronio</lem>
+    <rdg wit="#B #D #L #Z #P">sempronio</rdg>
+</app> 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema">?</lem><rdg wit="#B #D #L #Z #P">.</rdg>
+</app> 
+Sempronio 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+señor . Calisto 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #B #D">.</lem>
+    <rdg wit="#L #Z #P"></rdg>
+</app> 
+que hazes llaue de mi vida 
+<app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #L #Z #P">?</lem>
+    <rdg wit="#B">.</rdg>
+</app> 
+abre <app type="puntuacion" subtype="presencia_en_base">
+    <lem wit="#lema #D #L #Z #P">.</lem>
+    <rdg wit="#B"></rdg>
+</app> 
+O 
+<app type="grafia" subtype="mayusculas">
+    <lem wit="#lema #L">Parmeno</lem>
+    <rdg wit="#B #D #Z #P">parmeno</rdg>
+</app> 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #B #D #L #Z"></lem>
+    <rdg wit="#P">:</rdg>
+</app> 
+ya 
+<app type="alternativa">
+    <lem wit="#lema #B #D #Z #P"></lem>
+    <rdg wit="#L">lo veo : sano so : biuo soy Mira que reuerenda persona : que acatamiento : por</rdg>
+</app> 
+la 
+<app type="alternativa">
+    <lem wit="#lema #B #D #Z">veo</lem>
+    <rdg wit="#L">mayor parte por la filosomia es conocida la virtud interior</rdg>
+    <rdg wit="#P">veo/ sano soy/ biuo soy/ miras que reuerenda persona : que acatamiento</rdg>
+</app> 
+. 
+<app type="alternativa">
+    <lem wit="#lema">Sano soy : biuo soy</lem>
+    <rdg wit="#B #Z">sano soy</rdg>
+    <rdg wit="#D">Sano soy</rdg>
+    <rdg wit="#L">O vejez virtuosa</rdg>
+    <rdg wit="#P">por la mayor parte por la filosomia es conocida la virtud interior</rdg>
+</app> 
+. 
+<app type="alternativa">
+    <lem wit="#lema">Miras que reuerenda persona : que acatamiento ? Por la mayor parte por la filosomia es conoscida la virtud interior</lem>
+    <rdg wit="#B">viuo so Miras que reuerenda persona : que acatamiento</rdg>
+    <rdg wit="#D">Biuo soy</rdg>
+    <rdg wit="#L">o virtud enuegecida</rdg>
+    <rdg wit="#Z">biuo soy</rdg>
+    <rdg wit="#P">O vejez virtuosa/ o virtud enuejescida</rdg>
+</app> . 
+<app type="alternativa">
+    <lem wit="#lema">O vejez virtuosa o virtud en vejecida</lem>
+    <rdg wit="#B">Por la mayor parte por la philosomia es conocida la virtud interior</rdg>
+    <rdg wit="#D">Miras que reuerenda persona ? que acatamiento ? Por la mayor parte por la filosomia es conoscida la virtud interior</rdg>
+    <rdg wit="#L">o gloriosa esperança de mi desseado fin</rdg>
+    <rdg wit="#Z">Mira que reuerenda persona : que acatamiento</rdg>
+    <rdg wit="#P">O gloriosa esperança de mi desseado fin</rdg>
+</app> 
+. 
+<app type="alternativa">
+    <lem wit="#lema #B #D #L #P"></lem>
+    <rdg wit="#Z">por la mayor parte por la filisomia es conoscida la virtud interior</rdg>
+</app> 
+O 
+<app type="alternativa">
+    <lem wit="#lema">gloriosa esperança</lem>
+    <rdg wit="#B #D">vejez virtuosa o virtud enuejecida . O gloriosa esperança</rdg>
+    <rdg wit="#L #P">fin</rdg>
+    <rdg wit="#Z">vejez virtuosa/ o virtud euejecida . O gloriosa esperança</rdg>
+</app> 
+de mi 
+<app type="alternativa">
+    <lem wit="#lema">deseado fin .</lem>
+    <rdg wit="#B #D">desseado fin .</rdg>
+    <rdg wit="#L #P">deleytosa esperança .</rdg>
+    <rdg wit="#Z">desseado fin</rdg>
+</app> 
+O <app type="alternativa">
+    <lem wit="#lema #B #D #Z">fin</lem>
+    <rdg wit="#L #P">salud</rdg>
+</app> 
+de mi 
+<app type="alternativa">
+    <lem wit="#lema #B #D #Z">deleytosa esperança</lem>
+    <rdg wit="#L">passion : reparo de mi tormento : regeneracion mia</rdg>
+    <rdg wit="#P">passion</rdg>
+</app> 
+. 
+<app type="alternativa">
+    <lem wit="#lema #B #D #Z">O salud</lem>
+    <rdg wit="#L">viuificacion</rdg>
+    <rdg wit="#P">Reparo</rdg>
+</app> 
+de mi 
+<app type="alternativa">
+    <lem wit="#lema #B #D #Z">passion . Reparo</lem>
+    <rdg wit="#L">vida resurrecion</rdg>
+    <rdg wit="#P">tormento . Regeneracion mia . Biuificacion</rdg>
+</app> 
+de mi 
+<app type="alternativa">
+    <lem wit="#lema #B #D #Z">tormento</lem>
+    <rdg wit="#L">muerte : desseo llegar a ti : cobdicio besar estas manos llenas de remedio : la indignidad de mi persona lo embarga</rdg>
+    <rdg wit="#P">vida</rdg>
+</app> 
+. 
+<app type="alternativa">
+    <lem wit="#lema #D #Z">Regeneracion mia</lem>
+    <rdg wit="#B">Regenreacion mia</rdg>
+    <rdg wit="#L">dende aqui adoro la tierra que huellas y en tu reuerencia la beso</rdg>
+    <rdg wit="#P">Resurrecion de mi muerte</rdg>
+</app> 
+. 
+<app type="alternativa">
+    <lem wit="#lema">Viuificacion</lem>
+    <rdg wit="#B #D #Z">Uiuificacion</rdg>
+    <rdg wit="#L">Celestina sempronio</rdg>
+    <rdg wit="#P">Desseo llegar ati . Cobdicio besar essas manos llenas</rdg>
+</app> 
+de 
+<app type="alternativa">
+    <lem wit="#lema #D #Z">mi vida . Resurrecion</lem>
+    <rdg wit="#B">mi vida Resurrecion</rdg>
+    <rdg wit="#L">aquellas biuo yo los huessos que yo roy piensa este necio</rdg>
+    <rdg wit="#P">remedio : la indignidad</rdg>
+</app> 
+de 
+<app type="alternativa">
+    <lem wit="#lema #B #D #Z">mi muerte</lem>
+    <rdg wit="#L">tu amo de dar me a comer : pues al le sueño : al freyr lo vera : dile que cierre la boca y comience abrir la bolsa que delas obras dudo quanto mas delas palabras : xo que te estriego asna coxa mas auias de madrugar</rdg>
+    <rdg wit="#P">mi persona lo embarga</rdg>
+</app> 
+. 
+<app type="alternativa">
+    <lem wit="#lema #B">Deseo llegar a ti</lem>
+    <rdg wit="#D">Desseo llegar ati</rdg>
+    <rdg wit="#L">Parmeno guay de orejas que tal oyen : perdido es quien tras perdido anda</rdg>
+    <rdg wit="#Z">Desseo llegar a ti</rdg>
+    <rdg wit="#P">dende aqui adoro la tierra que huellas : & en reuerencia tuya la beso</rdg>
+</app> 
+. 
+<app type="alternativa">
+    <lem wit="#lema #B #D #Z">Cobdicio besar essas manos llenas</lem>
+    <rdg wit="#L">O calisto desuenturado abatido ciego y en tierra esta adorando ala mas antigua puta tierra que fregaron sus espaldas en todos los burdeles : deshecho es : vencido es : caydo es : no es capaz</rdg>
+    <rdg wit="#P">Celestina sempronio :</rdg>
+</app> 
+de 
+<app type="alternativa">
+    <lem wit="#lema #D #Z">remedio</lem>
+    <rdg wit="#B">remedio . la indignidad de mi persona lo embarga . Dende aqui adoro la tierra que huellas</rdg>
+    <rdg wit="#L">ninguna redencion</rdg>
+    <rdg wit="#P">aquellas biuo yo</rdg>
+</app> 
+: 
+<app type="alternativa">
+    <lem wit="#lema #D">la indignidad de mi persona lo embarga . Dende aqui adoro la tierra</lem>
+    <rdg wit="#B">& en reuerencia tuya beso . Celestina . sempronio de aquellas viuo yo . los huessos</rdg>
+    <rdg wit="#L">ni consejo : ni esfuerço . Calisto</rdg>
+    <rdg wit="#Z">la indignidad de mi persona lo enbarga . Dende aqui adoro la tierra</rdg>
+    <rdg wit="#P">los huessos</rdg>
+</app> 
+que 
+<app type="alternativa">
+    <lem wit="#lema #D #Z">huellas</lem>
+    <rdg wit="#B #P">yo roy piensa este necio de tu amo de dar me a comer</rdg>
+    <rdg wit="#L">dezia la madre ? parece me que pensaua que le offrecia palabras por escusar galardon ? Sempronio assi lo senti . Calisto pues ven comigo</rdg>
+</app> 
+: 
+<app type="alternativa">
+    <lem wit="#lema">y en reuerencia tuya beso . Celestina . Sempronio : de aquellas biuo yo ? los huessos</lem>
+    <rdg wit="#B">pues al le sueño al freyr lo vera : dile</rdg>
+    <rdg wit="#D">y en reuerencia tuya beso . Celestina . sempronio : de aquellas biuo yo ? los huessos</rdg>
+    <rdg wit="#L">trae las llaues</rdg>
+    <rdg wit="#Z">y en reuerencia tuya la beso . Celestina sempronio : de aquellas biuo yo : los huessos</rdg>
+    <rdg wit="#P">pues al le sueño : al freyr lo vera : di le</rdg>
+</app> 
+que 
+<app type="alternativa">
+    <lem wit="#lema">yo roy piensa este necio de tu amo de dar me a comer pues al le sueño al freyr lo vera dile que cierre</lem>
+    <rdg wit="#B #P">cierre</rdg>
+    <rdg wit="#D">yo roy piensa este nescio de tu amo de dar me a comer pues al le sueño al freyr lo vera : di le que cierre</rdg>
+    <rdg wit="#L">yo sanare su dubda . Sempronio bien haras & luego vamos que no se deue dexar crescer</rdg>
+    <rdg wit="#Z">yo roy piensa este necio de tu amo de dar me a comer : pues al le sueño/ al freyr lo vera : di le que cierre</rdg>
+</app> 
+la 
+<app type="alternativa">
+    <lem wit="#lema">boca y comiençe abrir</lem>
+    <rdg wit="#B">boca & comience abrir</rdg><rdg wit="#D">boca & comience a abrir</rdg>
+    <rdg wit="#L">yerua entre los panes ni</rdg>
+    <rdg wit="#Z">boca/ y comence abrir</rdg>
+    <rdg wit="#P">boca : & comience abrir</rdg>
+</app> 
+la 
+<app type="alternativa">
+    <lem wit="#lema #B #D #P">bolsa : que</lem>
+    <rdg wit="#L">sospecha enlos coraçones delos amigos sino limpiar luego con el escardilla</rdg>
+    <rdg wit="#Z">bolsa . que</rdg>
+</app> 
+delas 
+<app type="alternativa">
+    <lem wit="#lema #B #D #Z #P"></lem>
+    <rdg wit="#L">buenas</rdg>
+</app> 
+obras 
+<app type="puntuacion" subtype="omision_en_base">
+    <lem wit="#lema #B #D #Z #P"></lem>
+    <rdg wit="#L">.</rdg>
+</app> 
+<app type="alternativa">
+    <lem wit="#lema #D">dubdo</lem>
+    <rdg wit="#B">dudo quanto mas delas palabras</rdg>
+    <rdg wit="#L">Calisto astuto hablas</rdg>
+    <rdg wit="#Z">dubdo quanto mas delas palabras</rdg>
+    <rdg wit="#P">dubdo quanto mas delas palabras . xo que te estriego asna coxa</rdg>
+</app> 
+: 
+<app type="alternativa">
+    <lem wit="#lema">quanto mas delas palabras xo que te estriego : asna coxa mas auias de madrugar</lem>
+    <rdg wit="#B">xo que te estriego</rdg>
+    <rdg wit="#D">quanto mas delas palabras : xo que te estrego : asna coxa mas auias de madrugar</rdg>
+    <rdg wit="#L">vamos & no tardemos</rdg>
+    <rdg wit="#Z">xo que te striego asna coxa/ mas auias de madrugar</rdg>
+    <rdg wit="#P">mas auias de madrugar</rdg>
+</app> 
+. 
+<app type="alternativa">
+    <lem wit="#lema">Parmeno . guay de orejas que tal oyen . Perdido es quien tras perdido anda . O Calisto desauenturado abatido ciego y en tierra esta adorando ala mas antigua y puta tierra : que fregaron sus espaldas en todos los burdeles : deshecho es : vencido es : caydo es : no es capaz de ninguna redencion ni consejo ni esfuerço . Calisto . que dezia la madre ? paresce me que pensaua que le ofrecia palabras por escusar galardon ? Sempronio . asi lo senti . Calisto . pues ven comigo : trae las llaues que yo sanare su dubda . Sempronio . bien haras : y luego vamos : que no se deue dexar crescer la yerua entre los panes : ni la sospecha enlos coraçones delos amigos . Sino limpiar la luego conel escardilla delas buenas obras . Calisto . astuto hablas : vamos y no tardemos .</lem>
+    <rdg wit="#B">asna coxa mas hauias de madrugar . Parmeno . guay de orejas que tal oyen . Perdido es quien tras perdido anda . O calisto desauenturado abatido ciego : & en tierra esta adorando ala mas antigua & puta tierra : que fragaron sus espaldas en todos los burdeles . deshecho es . vencido es . caydo es . no es capaz de ninguna redencion ni consejo ni esfuerço . Calisto . que dezia la madre : paresceme que pensaua que le ofrescia palabras por escusar galardon . Sempronio . assi lo senti . Calisto . pues ven comigo trae las llaues que yo sanare su duda . Sempronio . bien faras : & luego vamos : que no se deue dexar crescer la yerua entre los panes : ni la sospecha enlos coraçones delos amigos . Sino alimpiar la luego conel escardilla delas buenas obras . Calisto . astuto hablas : vamos & no tardemos .</rdg>
+    <rdg wit="#D">Parmeno . guay de orejas que tal oyen . Perdido es quien tras perdido anda . O calisto desauenturado abiltado ciego y en tierra esta adorando ala mas antigua & puta tierra : que fregaron sus espaldas en todos los burdeles : deshecho es : vencido es : caydo es : no es capaz de ninguna redencion ni consejo ni esfuerço . Calisto . que dezia la madre ? parece me que pensaua que le offrescia palabras por escusar galardon . Sempronio . assi lo senti . Calisto . pues ven conmigo trae las llaues que yo sanare su dubda . Sempronio . bien haras : & luego vamos : que no se deue dexar crescer la yerua entre los panes : ni la sospecha enlos coraçones delos amigos . Si no limpiar la luego conel escardilla delas buenas obras . Calisto . astuto hablas : vamos & no tardemos .</rdg>
+    <rdg wit="#L"></rdg>
+    <rdg wit="#Z">Parmeno guay de orejas que tal oyen . perdido es quien tras perdido anda . O calisto desuenturado/ abatido ciego : y en tierra esta adorando ala mas antigua puta tierra : que fregaron sus espaldas en todos los burdeles : deshecho es : vencido es : caydo es : no es capaz de ninguna redencion/ ni consejo/ ni esfuerço . Calisto que dezia la madre ? paresce me que pensaua/ que le ofrescia palabras por escusar gualardon ? Sempronio assi lo senti . Calisto pues ven conmigo trae las llaues/ que yo sanare su dubda . Sempronio bien haras . y luego vamos/ que no se deue dexar crescer la yerua entre los panes : ni la sospecha enlos coraçones delos amigos . sino limpiar la luego conel escardilla delas buenas obras . Calisto astuto hablas : vamos y no tardemos .</rdg>
+    <rdg wit="#P">Parmeno guay de orejas que tal oyen/ perdido es quien tras perdido anda . O calisto desauenturado/ abatido/ ciego/ y en tierra esta adorando ala mas antigua puta tierra : que fregaron sus espaldas en todos los burdeles/ deshecho es/ vencidos/ caydo es/ no es capaz de ninguna redencion/ ni consejo/ ni esfuerço . Calisto que dizia la madre ? paresce me que pensaua que le offrescia palabras por escusar galardon ? Sempronio assi lo senti . Calisto pues ven conmigo : trae las llaues : que yo sanare su dubda . Sempronio bien haras . & luego vamos : que no se deue dexar crescer la yerua entre los panes : ni la sospecha en los coraçones delos amigos . sino limpiar la luego con el escardilla delas buenas obras . Calisto astuto hablas : vamos & no tardemos .</rdg>
+</app>
